@@ -16,9 +16,9 @@ This anki add-on adds heisigana to a japanese sentence.
 
 Given a sentence like:
 
-#+BEGIN_EXPORT html
-<p>何が起きたんだ？</p>
-#+END_EXPORT
+#+begin_example
+@@html<p>@@何が起きたんだ？@@html</p>@@
+#+end_example
 
 into
 
