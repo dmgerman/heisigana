@@ -14,23 +14,9 @@
 
 This anki add-on adds heisigana to a japanese sentence.
 
-Given a sentence like:
+[[docs/heisiganaExample.png]]
 
-@@html<p>@@何が起きたんだ？@@html</p>@@
-
-into
-
-#+BEGIN_EXPORT html
-<p>何[aaa]が 起[yyy]きたんだ？
-#+END_EXPORT
-
-that is rendered as:
-
-#+BEGIN_EXPORT html
-<p><ruby>何<rt>aaa</rt><ruby>が<ruby>起<rt></rt></ruby>きたんだ？
-#+END_EXPORT
-
-It is very rough. It has no user interface.
+It is very rough, but it works.
 
 * Installation/How to use
 
@@ -46,9 +32,10 @@ class Config(object):
     kanjiList = "HeisigKeywords.txt"
    #+end_example
 
-each string in heisiganaSrcFields is the name of the field to translate.
+Each string in heisiganaSrcFields is the name of the field to translate.
 It only uses the first it finds in a note. The destination field is the name of the field to put the result. By default it will overwrite it.
-kanjiList is the file where to find
+kanjiList is the file where to find. In the default configuration, in the current note, it will find the first field named /Expression/ or /SentenceJp/
+as the input, and then replace the field called /heisigana/ with the corresponding result.
 
 * Customizing the keywords
 
