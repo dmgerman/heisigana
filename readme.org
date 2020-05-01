@@ -34,8 +34,10 @@ class Config(object):
 
 Each string in heisiganaSrcFields is the name of the field to translate.
 It only uses the first it finds in a note. The destination field is the name of the field to put the result. By default it will overwrite it.
-kanjiList is the file where to find. In the default configuration, in the current note, it will find the first field named /Expression/ or /SentenceJp/
-as the input, and then replace the field called /heisigana/ with the corresponding result.
+kanjiList is the file where to find.
+
+This is the behaviour with this default configuration: in the current note it will find the first field named
+/Expression/ or /SentenceJp/ as the input, and then replace the field called /heisigana/ with the corresponding result.
 
 * Customizing the keywords
 
@@ -49,3 +51,17 @@ each line is a kanji and its heisigana, separated by a tab. Change to suit your 
 三    three
 四    four
 #+end_example
+
+the file data/HeisigKeywordsWithIndex.txt contains the Heisig keywords and index of each kanji. Change the config.py file
+to adjust:
+
+#+begin_example
+一           one,1
+二           two,2
+三           three,3
+四           four,4
+#+end_example
+
+* Acknowledgements
+
+This add-on is roughtly based on the [[https://github.com/Kodeama/-Anki-Shinmeikai-Addon][-Anki-Shinmeikai-Addon]] by Kodeama.
