@@ -43,7 +43,7 @@ This is the behaviour with this default configuration: in the current note it wi
 
 You can change the keywords. They can be any string as long as it does not have end-on-line.
  The file data/HeisigKeywords.txt contains the mappings. The format of the file is very simple:
-each line is a kanji and its heisigana, separated by a tab. Change to suit your needs
+each line is a kanji and its heisigana, separated by a tab. Change to suit your needs.
 
 #+begin_example
 一    one
@@ -64,4 +64,4 @@ to adjust:
 
 * Acknowledgements
 
-This add-on is roughtly based on the [[https://github.com/Kodeama/-Anki-Shinmeikai-Addon][-Anki-Shinmeikai-Addon]] by Kodeama.
+This add-on is roughly based on the [[https://github.com/Kodeama/-Anki-Shinmeikai-Addon][-Anki-Shinmeikai-Addon]] by Kodeama.
