@@ -5,4 +5,4 @@ class Config(object):
     heisiganaDstField = "heisigana"
     overwrite = True
     kanjiList = "HeisigKeywords.txt"
-    japaneseSupportPluginFolderName="3918629680"
+
