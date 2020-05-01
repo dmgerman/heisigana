@@ -1,0 +1,66 @@
+#+STARTUP: showall
+#+STARTUP: lognotestate
+#+TAGS: research(r) uvic(u) today(y) todo(t) cooking(c)
+#+SEQ_TODO: TODO(t) STARTED(s) DEFERRED(r) CANCELLED(c) | WAITING(w) DELEGATED(d) APPT(a) DONE(d)
+#+DRAWERS: HIDDEN STATE
+#+ARCHIVE: %s_done::
+#+TITLE: Heisigana
+#+CATEGORY:
+#+PROPERTY: header-args:sql             :engine postgresql  :exports both :cmdline csc370
+#+PROPERTY: header-args:sqlite          :db /path/to/db  :colnames yes
+#+PROPERTY: header-args:C++             :results output :flags -std=c++14 -Wall --pedantic -Werror
+#+PROPERTY: header-args:R               :results output  :colnames yes
+#+OPTIONS: ^:nil
+
+This anki add-on adds heisigana to a japanese sentence.
+
+Given a sentence like:
+
+#+BEGIN_EXPORT html
+<p>何が起きたんだ？</p>
+#+END_EXPORT
+
+into
+
+#+BEGIN_EXPORT html
+<p>何[aaa]が 起[yyy]きたんだ？
+#+END_EXPORT
+
+that is rendered as:
+
+#+BEGIN_EXPORT html
+<p><ruby>何<rt>aaa</rt><ruby>が<ruby>起<rt></rt></ruby>きたんだ？
+#+END_EXPORT
+
+It is very rough. It has no user interface.
+
+* Installation/How to use
+
+1. Install the extension manually > 1. Install the extension mecabually
+
+2. Modify the file config.py to suit your collection. the fields are self explanatory:
+
+   #+begin_example
+class Config(object):
+    heisiganaSrcFields = ["Expression", "SentenceJp"]
+    heisiganaDstField = "heisigana"
+    overwrite = True
+    kanjiList = "HeisigKeywords.txt"
+   #+end_example
+
+each string in heisiganaSrcFields is the name of the field to translate.
+It only uses the first it finds in a note. The destination field is the name of the field to put the result. By default it will overwrite it.
+kanjiList is the file where to find
+
+* Customizing the keywords
+
+You can change the keywords. They can be any string as long as it does not have end-on-line.
+ The file data/HeisigKeywords.txt contains the mappings. The format of the file is very simple:
+each line is a kanji and its heisigana, separated by a tab. Change to suit your needs
+
+#+begin_example
+一    one
+二    two
+三    three
+四    four
+#+end_example
