@@ -28,7 +28,7 @@ def readKeywords(file):
     def parse_line(line):
         f = line.rstrip().split("\t")[:2]
         assert len(f) == 2
-        return (f[0], "[" + f[1] + "]" )
+        return (f[0], "".join([" ", f[0], "[", f[1],"] "]))
 
     return readDict(file, parse_line)
 
@@ -68,5 +68,5 @@ def stringContainsKanji(searchTerm):
 
 def do_heisigana(str):
     chars = list(str)
-    mappedChars = map(lambda a: a + kanjiList.get(a, ""), chars)
+    mappedChars = map(lambda a: kanjiList.get(a, a), chars)
     return "".join(mappedChars)
