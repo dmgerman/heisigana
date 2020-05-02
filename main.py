@@ -63,5 +63,6 @@ def setupMenu(browser):
     action.triggered.connect(lambda: add_heisigana(browser.selectedNotes()))
     browser.form.menuEdit.addSeparator()
     browser.form.menuEdit.addAction(action)
+    browser.form.menuEdit.addSeparator()
 
 addHook("browser.setupMenus", setupMenu)
