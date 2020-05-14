@@ -1,0 +1,2415 @@
+乙	latter/fish guts-おつ
+一	one-いち
+人	person-じん
+入	enter<span class='kdom'>にゅう</span>
+八	eight<span class='kall'>はち</span>
+七	seven<span class='kall'>なな</span>
+十	ten<span class='kall'>じゅう</span>
+丁	street-ちょう
+力	power-りょく
+九	nine<span class='kall'>きゅう</span>
+刀	katana/sword<span class='kall'>とう</span>
+了	finish/complete<span class='kall'>りょう</span>
+二	two<span class='kdom'>に</span>
+又	again/or again-
+亡	deceased<span class='kall'>ぼう</span>
+士	gentleman<span class='kdom'>し</span>
+工	craft<span class='kdom'>こう</span>
+土	soil<span class='kdom'>ど</span>
+子	child-し
+才	geniu/genius-さい
+寸	measurement<span class='kall'>すん</span>
+女	woman-じょ
+乞	beg<span class='kall'>こ</span>
+凡	ordinary/mediocre<span class='kall'>ぼん</span>
+上	up/above<span class='kdom'>じょう</span>
+下	down/below-か
+山	mountain-やま
+口	mouth-こう
+小	small/little-こ
+川	river/stream-かわ
+干	dry-かん
+千	thousand-せん
+巾	towel/<span class='kall'>きん</span>
+夕	evening<span class='kdom'>ゆう</span>
+及	lead up to/reach out<span class='kall'>きゅう</span>
+己	self-こ
+久	long time-きゅう
+与	give/bestow<span class='kall'>よ</span>
+弓	bow<span class='kall'>ゆみ</span>
+丈	length-じょう
+大	big/large-だい
+三	three<span class='kdom'>さん</span>
+万	ten thousand-ばん
+丸	round-まる
+刃	blade<span class='kall'>は</span>
+午	noon<span class='kall'>ご</span>
+牛	cow-うし
+王	king<span class='kdom'>おう</span>
+区	district/ward<span class='kall'>く</span>
+凶	evil/villain<span class='kall'>きょう</span>
+匹	equal<span class='kall'>ひき</span>
+太	fat/plump<span class='kdom'>たい</span>
+夫	husband-ふ
+犬	dog-いぬ
+天	heaven/heavens<span class='kall'>てん</span>
+日	sun/day-にち
+月	moon/month-げつ
+円	yen/circle<span class='kall'>えん</span>
+比	compare<span class='kdom'>ひ</span>
+匂	smell/-
+仇	foe/-
+化	change<span class='kdom'>か</span>
+水	water-すい
+木	tree-き
+不	negative<span class='kall'>ふ</span>
+尺	foot length/shaku<span class='kall'>しゃく</span>
+中	in<span class='kdom'>ちゅう</span>
+戸	door-と
+方	direction-ほう
+切	cut-せつ
+分	part<span class='kdom'>ぶん</span>
+幻	illusion/phantasm-げん
+仏	buddha<span class='kdom'>ぶつ</span>
+公	public<span class='kdom'>こう</span>
+支	support/branch<span class='kall'>し</span>
+反	oppose/anti <span class='kdom'>はん</span>
+友	friends/friend-ゆう
+文	sentence<span class='kdom'>ぶん</span>
+父	father-ふ
+厄	unlucky<span class='kall'>やく</span>
+収	income<span class='kall'>しゅう</span>
+五	five<span class='kall'>ご</span>
+井	water well/well-い
+互	together/mutually<span class='kall'>ご</span>
+内	inside<span class='kdom'>ない</span>
+欠	lack<span class='kall'>けつ</span>
+火	fire-か
+心	heart-しん
+今	now<span class='kdom'>こん</span>
+乏	poverty/destitution<span class='kall'>ぼう</span>
+双	pair-そう
+牙	fang/tusk-きば
+介	jammed in<span class='kall'>かい</span>
+片	one side/one sided-かた
+元	origin/beginning-げん
+六	six<span class='kall'>ろく</span>
+氏	surname/family name<span class='kdom'>し</span>
+冗	superfluou/superfluous<span class='kall'>じょう</span>
+止	stop<span class='kall'>し</span>
+予	beforehand<span class='kall'>よ</span>
+弔	condolence/condolences<span class='kall'>ちょう</span>
+刈	trim/reap-
+毛	hair/fur-もう
+手	hand-て
+引	pull-いん
+少	few<span class='kall'>しょう</span>
+爪	nail/claw<span class='kall'>つめ</span>
+叩	bash/-
+右	right-みぎ
+古	old<span class='kdom'>こ</span>
+石	rock/stone-せき
+兄	older brother/elder brother-けい
+召	seduce<span class='kall'>しょう</span>
+叶	fulfill/-
+占	fortune telling-せん
+叱	scolded/-
+加	adding/add<span class='kall'>か</span>
+台	pedestal-だい
+申	statement/speaketh-しん
+由	reason/wherefore-ゆう
+甲	armor-こう
+田	ricefield/rice field-でん
+払	pay-
+広	broad/wide-こう
+弁	speech/valve<span class='kall'>べん</span>
+用	utilize<span class='kall'>よう</span>
+皿	plate/dish-ざら
+冊	book volume/tome-さつ
+旦	dawn/nightbreak<span class='kall'>たん</span>
+旧	old time/olden times<span class='kall'>きゅう</span>
+白	white-はく
+目	eye-め
+主	master/lord-しゅ
+生	life-せい
+玉	ball/jewel-ぎょく
+未	not yet<span class='kall'>み</span>
+末	end of/extremity-まつ
+半	half<span class='kall'>はん</span>
+失	lose<span class='kall'>しつ</span>
+矢	dart<span class='kall'>や</span>
+本	book<span class='kdom'>ほん</span>
+犯	crime<span class='kdom'>はん</span>
+代	subtitute/substitute<span class='kdom'>だい</span>
+汁	soup<span class='kall'>じゅう</span>
+刊	publish<span class='kall'>かん</span>
+庁	government office<span class='kall'>ちょう</span>
+令	order/orders<span class='kall'>れい</span>
+巨	gigantic<span class='kall'>きょ</span>
+央	center<span class='kall'>おう</span>
+史	history<span class='kall'>し</span>
+礼	salute/salutation<span class='kall'>れい</span>
+付	attach/adhere-ふ
+札	tag-さつ
+丼	bowl/-
+他	another/other<span class='kall'>た</span>
+世	generation-せ
+瓦	tile-かわら
+丘	hill-きゅう
+北	north-ほく
+巧	skillfully/adroit<span class='kall'>こう</span>
+写	copy<span class='kall'>しゃ</span>
+号	title/nickname<span class='kall'>ごう</span>
+必	certain/invariably<span class='kall'>ひつ</span>
+氷	ice/icicle-ひょう
+永	eternity<span class='kall'>えい</span>
+四	four-し
+母	mother/mama-ぼ
+囚	captured<span class='kall'>しゅう</span>
+立	stand up-りつ
+平	flat/even<span class='kdom'>へい</span>
+正	correct-せい
+幼	childhood/infancy<span class='kdom'>よう</span>
+功	achievement<span class='kdom'>こう</span>
+玄	profound/mysterious<span class='kall'>げん</span>
+市	city/market<span class='kall'>し</span>
+左	left-ひだり
+布	cloth/linen-ふ
+司	director<span class='kdom'>し</span>
+可	can<span class='kall'>か</span>
+句	phrase<span class='kall'>く</span>
+民	people<span class='kall'>みん</span>
+尻	buttock/-
+込	crowded-
+辺	vicinity/environs-べ
+仙	hermit<span class='kall'>せん</span>
+打	strike<span class='kall'>だ</span>
+矛	spear/halberd-ほこ
+圧	pressure<span class='kall'>あつ</span>
+仕	serving/attend<span class='kdom'>し</span>
+去	gone<span class='kdom'>きょ</span>
+処	dispose<span class='kall'>しょ</span>
+奴	guy-ど
+皮	leather/pelt-ひ
+以	by means of<span class='kall'>い</span>
+穴	hole<span class='kall'>あな</span>
+出	exit-しゅつ
+外	outside<span class='kdom'>がい</span>
+示	show<span class='kdom'>じ</span>
+冬	winter-とう
+汚	dirty<span class='kall'>お</span>
+汗	sweat<span class='kall'>あせ</span>
+江	creek-え
+年	year<span class='kdom'>ねん</span>
+羊	sheep-よう
+寺	temple/buddhist temple-じ
+多	many<span class='kall'>た</span>
+各	each<span class='kall'>かく</span>
+名	name-めい
+光	rays of light/ray<span class='kdom'>こう</span>
+米	rice-べい
+先	previou/before-せん
+全	all/whole<span class='kall'>ぜん</span>
+企	plan/undertake<span class='kall'>き</span>
+合	fit-ごう
+会	meeting<span class='kdom'>かい</span>
+百	hundred-ひゃく
+早	early-そう
+自	oneself<span class='kdom'>じ</span>
+耳	ear-みみ
+再	second time/again<span class='kall'>さい</span>
+両	both<span class='kall'>りょう</span>
+西	west-せい
+毎	every<span class='kall'>まい</span>
+血	blood-けつ
+曲	bend<span class='kdom'>きょく</span>
+因	cause<span class='kall'>いん</span>
+団	group<span class='kdom'>だん</span>
+回	time/ times<span class='kdom'>かい</span>
+叫	shout-きょう
+扱	handle-
+吸	inhale/suck-きゅう
+吐	spit-と
+忙	busy<span class='kall'>ぼう</span>
+竹	bamboo-たけ
+州	state<span class='kall'>しゅう</span>
+任	responsibility<span class='kall'>にん</span>
+伝	transmit<span class='kdom'>でん</span>
+件	matter/affair<span class='kall'>けん</span>
+争	dispute/contend<span class='kall'>そう</span>
+危	dangerou/dangerous<span class='kall'>き</span>
+色	color-いろ
+好	like/fond<span class='kdom'>こう</span>
+安	cheap/relax-あん
+妄	delusion<span class='kall'>もう</span>
+次	next-じ
+巡	patrol<span class='kall'>じゅん</span>
+迅	swift<span class='kall'>じん</span>
+糸	thread<span class='kall'>いと</span>
+灯	lamp<span class='kdom'>とう</span>
+兆	portent<span class='kall'>ちょう</span>
+弛	droop/-
+地	ground-ち
+池	pond-いけ
+列	queue/file<span class='kall'>れつ</span>
+刑	punishment/punish<span class='kall'>けい</span>
+死	death<span class='kall'>し</span>
+守	protect/guard-しゅ
+宇	roof/eaves<span class='kall'>う</span>
+宅	home<span class='kall'>たく</span>
+字	character<span class='kdom'>じ</span>
+肉	meat<span class='kall'>にく</span>
+舟	boat-
+向	facing/yonder<span class='kdom'>こう</span>
+同	same<span class='kdom'>どう</span>
+尖	sharp/-
+行	go/going-こう
+劣	inferior/inferiority<span class='kall'>れつ</span>
+考	consider<span class='kall'>こう</span>
+旨	deliciou/delicious-し
+老	grow old/old man<span class='kall'>ろう</span>
+伐	cut down/fell<span class='kall'>ばつ</span>
+休	rest<span class='kall'>きゅう</span>
+壮	grand/robust<span class='kall'>そう</span>
+旬	10 day/decameron-じゅん
+充	fill/allot<span class='kall'>じゅう</span>
+芝	lawn/turf<span class='kall'>しば</span>
+伏	face down/prostrated-ふく
+仰	look up/faceup-ぎょう
+仮	temporary/provisional-か
+匠	craftsman/artisan-しょう
+舌	tongue<span class='kall'>した</span>
+吉	good luck-きつ
+如	as if/likeness-じょ
+仲	relationship/go between-なか
+虫	insect-ちゅう
+存	aware/suppose-ぞん
+有	have/possess<span class='kdom'>ゆう</span>
+在	exist<span class='kall'>ざい</span>
+朴	simple/crude<span class='kall'>ぼく</span>
+肌	skin/texture<span class='kall'>はだ</span>
+朽	decay<span class='kall'>きゅう</span>
+机	desk-き
+当	hit<span class='kdom'>とう</span>
+印	symbol/stamp-いん
+羽	feather/feathers-は
+至	attain/climax<span class='kall'>し</span>
+式	style<span class='kall'>しき</span>
+衣	clothe/garment<span class='kall'>い</span>
+共	jointly/together<span class='kall'>きょう</span>
+缶	tin can<span class='kall'>かん</span>
+交	intersect/mingle<span class='kall'>こう</span>
+尽	use up/exhaust<span class='kall'>じん</span>
+気	spirit<span class='kdom'>き</span>
+成	become/turn into<span class='kdom'>せい</span>
+灰	ashe/ashes-はい
+妨	disturb<span class='kall'>ぼう</span>
+励	encourage<span class='kall'>れい</span>
+助	help<span class='kall'>じょ</span>
+村	village/town-そん
+対	versu/vis a vis<span class='kall'>たい</span>
+肘	elbow/-
+近	near-きん
+返	return<span class='kall'>へん</span>
+迎	welcome<span class='kall'>げい</span>
+走	run<span class='kall'>そう</span>
+廷	court/courts<span class='kall'>てい</span>
+足	foot/leg-あし
+良	good<span class='kall'>りょう</span>
+卵	egg<span class='kall'>らん</span>
+即	instant<span class='kall'>そく</span>
+却	instead<span class='kall'>きゃく</span>
+見	see-けん
+児	infant/newborn babe-じ
+貝	shellfish<span class='kall'>かい</span>
+身	somebody-しん
+困	trouble/quandary<span class='kall'>こん</span>
+囲	surround<span class='kall'>い</span>
+図	diagram/map<span class='kdom'>ず</span>
+医	medicine/doctor<span class='kall'>い</span>
+更	furthermore/grow late-こう
+伸	extend/expand<span class='kall'>しん</span>
+車	car<span class='kdom'>しゃ</span>
+戻	put back/re -
+尾	tail-び
+尿	urine<span class='kall'>にょう</span>
+何	what-なに
+局	bureau<span class='kall'>きょく</span>
+伺	ask/pay respects-
+材	material/lumber<span class='kall'>ざい</span>
+杖	cane/<span class='kall'>つえ</span>
+杉	cedar<span class='kall'>すぎ</span>
+庇	defend/<span class='kall'>ひ</span>
+批	criticism<span class='kall'>ひ</span>
+屁	fart/-
+序	preface<span class='kall'>じょ</span>
+応	respond/apply<span class='kdom'>おう</span>
+床	floor/bed-しょう
+町	town/village-まち
+里	hometown/ri-さと
+男	man-だん
+含	include<span class='kall'>がん</span>
+余	surplu/too much<span class='kall'>よ</span>
+冷	cool<span class='kdom'>れい</span>
+呑	swallow/-
+豆	bean/beans-とう
+呂	articulate/spine<span class='kall'>ろ</span>
+臣	government official/retainer<span class='kdom'>しん</span>
+来	come<span class='kdom'>らい</span>
+串	shish kebab skewer/shish kebab<span class='kall'>くし</span>
+弟	younger brother-てい
+妥	compromise/gentle<span class='kall'>だ</span>
+災	disaster<span class='kall'>さい</span>
+芯	central part/<span class='kall'>しん</span>
+芳	fragrant/perfumed<span class='kall'>ほう</span>
+花	flower-はな
+芸	art/technique<span class='kall'>げい</span>
+完	complete/perfect<span class='kall'>かん</span>
+究	research<span class='kall'>きゅう</span>
+売	sell-ばい
+赤	red-あか
+利	benefit/profit<span class='kall'>り</span>
+別	separate<span class='kall'>べつ</span>
+私	private<span class='kall'>し</span>
+判	judgment-はん
+坂	slope-さか
+均	average/level<span class='kall'>きん</span>
+坊	boy<span class='kall'>ぼう</span>
+妙	strange/exquisite<span class='kall'>みょう</span>
+妖	ghost/<span class='kall'>よう</span>
+妊	pregnant/pregnancy<span class='kall'>にん</span>
+呆	shocked/<span class='kall'>ほう</span>
+克	overcome<span class='kall'>こく</span>
+束	bundle-そく
+技	technique/skill<span class='kdom'>ぎ</span>
+抜	remove/slip out-ばつ
+岐	branch off<span class='kall'>き</span>
+忘	forget-ぼう
+志	intention<span class='kall'>し</span>
+忍	sneak/endure<span class='kall'>にん</span>
+忌	detestable/mourning<span class='kall'>き</span>
+決	decide<span class='kdom'>けつ</span>
+択	select/choose<span class='kall'>たく</span>
+沢	swamp-さわ
+吠	bark/-
+吹	blow<span class='kall'>すい</span>
+状	condition/status quo<span class='kdom'>じょう</span>
+汲	draws water/-
+汽	steam/vapor<span class='kall'>き</span>
+沈	submerge/sink<span class='kall'>ちん</span>
+似	similar-じ
+伴	accompany/consort-はん
+低	low/lower<span class='kall'>てい</span>
+佐	assistant<span class='kall'>さ</span>
+役	role/duty-やく
+投	throw<span class='kall'>とう</span>
+没	sink/drown<span class='kall'>ぼつ</span>
+呈	display<span class='kall'>てい</span>
+狂	crazy/lunatic<span class='kall'>きょう</span>
+弄	mess around with/-
+改	renew/reformation<span class='kall'>かい</span>
+攻	assault/aggression<span class='kall'>こう</span>
+快	pleasant/cheerful<span class='kall'>かい</span>
+努	effort/toil<span class='kall'>ど</span>
+労	labor<span class='kall'>ろう</span>
+秀	excel<span class='kall'>しゅう</span>
+否	refuse/negate-ひ
+告	inform/revelation<span class='kall'>こく</span>
+谷	valley-たに
+声	voice-ごえ
+君	you/old boy<span class='kdom'>くん</span>
+把	grasp-は
+求	request<span class='kall'>きゅう</span>
+条	clause/twig<span class='kall'>じょう</span>
+寿	longevity-じゅ
+麦	wheat/barley<span class='kall'>むぎ</span>
+初	first time<span class='kdom'>しょ</span>
+乱	disorder/riot<span class='kall'>らん</span>
+社	shrine/company<span class='kdom'>しゃ</span>
+言	say-げん
+角	angle-かく
+肖	portrait/resemblance<span class='kall'>しょう</span>
+抗	protest/confront<span class='kall'>こう</span>
+折	fold-せつ
+抑	restrain/repress<span class='kall'>よく</span>
+位	rank<span class='kall'>い</span>
+住	reside/dwell<span class='kall'>じゅう</span>
+体	body<span class='kdom'>たい</span>
+作	make-さく
+戒	warn/commandment<span class='kall'>かい</span>
+形	shape-けい
+我	my/ego-が
+希	hope<span class='kdom'>き</span>
+系	system/lineage<span class='kall'>けい</span>
+辛	spicy-しん
+兵	soldier-へい
+邦	home country-ほう
+防	prevent/ward off<span class='kall'>ぼう</span>
+肝	liver-かん
+押	push<span class='kall'>おう</span>
+呻	groan/-
+果	accomplish/fruit<span class='kdom'>か</span>
+尚	still/esteem<span class='kall'>しょう</span>
+画	drawing/brush stroke-が
+雨	rain-う
+周	surrounding/circumference<span class='kall'>しゅう</span>
+妬	jealou/-
+拓	clear the land<span class='kall'>たく</span>
+岩	boulder-がん
+協	cooperation/co <span class='kall'>きょう</span>
+拗	distort/<span class='kall'>よう</span>
+効	effect/merit<span class='kdom'>こう</span>
+抽	extract/pluck<span class='kall'>ちゅう</span>
+油	oil-ゆ
+宙	mid air<span class='kall'>ちゅう</span>
+届	deliver<span class='kall'>とど</span>
+炊	cook<span class='kall'>すい</span>
+炎	flame/inflammation<span class='kdom'>えん</span>
+炉	fireplace/hearth<span class='kall'>ろ</span>
+昔	long ago/once upon a time<span class='kall'>むかし</span>
+昏	dusk/<span class='kall'>こん</span>
+者	someone-しゃ
+的	target/bull's eye<span class='kall'>てき</span>
+泊	stay overnight/overnight<span class='kall'>はく</span>
+拍	music beat/clap-はく
+迫	imminent/urge-はく
+肯	agree/agreement<span class='kall'>こう</span>
+育	raise a child/bring up<span class='kall'>いく</span>
+肩	shoulder<span class='kall'>かた</span>
+青	blue-あお
+枢	pivot/hinge<span class='kall'>すう</span>
+殴	punch/assault-
+欧	europe-
+拒	reject/repel<span class='kall'>きょ</span>
+肪	fatty/obese<span class='kall'>ぼう</span>
+肢	limb<span class='kall'>し</span>
+肥	fertilizer-ひ
+股	crotch/-こ
+明	bright-めい
+服	clothing-ふく
+突	poke/stab<span class='kall'>とつ</span>
+定	determine<span class='kdom'>てい</span>
+空	empty-くう
+宝	treasure-ほう
+房	chamber/tassel<span class='kdom'>ぼう</span>
+居	residence/reside-きょ
+刷	print/printing<span class='kall'>さつ</span>
+泥	mud-どろ
+姉	older sister/elder sister-し
+妹	younger sister-まい
+始	start/commence<span class='kall'>し</span>
+事	thing/matter<span class='kdom'>じ</span>
+妻	wife-さい
+垂	dangling/droop<span class='kall'>すい</span>
+知	know<span class='kall'>ち</span>
+委	entrust/committee<span class='kall'>い</span>
+和	harmony<span class='kdom'>わ</span>
+呼	call-こ
+呟	mutter/-
+呪	curse/<span class='kall'>じゅ</span>
+味	flavor-み
+拡	expand/broaden<span class='kall'>かく</span>
+拝	worship<span class='kdom'>はい</span>
+抹	rub<span class='kall'>まつ</span>
+招	invite/beckon<span class='kall'>しょう</span>
+沼	marsh<span class='kall'>ぬま</span>
+拐	kidnapped/kidnap<span class='kall'>かい</span>
+到	arrive/arrival<span class='kall'>とう</span>
+制	structure/system<span class='kall'>せい</span>
+刻	carve/engrave<span class='kall'>こく</span>
+刺	stab/thorn-し
+毒	poison<span class='kall'>どく</span>
+取	take-しゅ
+侮	despise/scorn<span class='kall'>ぶ</span>
+邪	wicked-じゃ
+阻	impede/thwart<span class='kall'>そ</span>
+邸	mansion/residence<span class='kall'>てい</span>
+況	situation/but of course<span class='kall'>きょう</span>
+治	cure/reign-ち
+泳	swim<span class='kall'>えい</span>
+沸	boiling/seethe-
+併	combine/join-へい
+供	offer/submit-きょう
+価	value<span class='kall'>か</span>
+受	accept<span class='kdom'>じゅ</span>
+学	study<span class='kall'>がく</span>
+乳	milk-にゅう
+宜	fine/best regards<span class='kall'>ぎ</span>
+狙	aim/<span class='kall'>そ</span>
+直	directly/straightaway<span class='kdom'>ちょく</span>
+具	tool<span class='kall'>ぐ</span>
+祈	praying/pray<span class='kall'>き</span>
+析	analyze/chop<span class='kall'>せき</span>
+所	place<span class='kdom'>しょ</span>
+彼	he-かれ
+披	presentation/expose<span class='kall'>ひ</span>
+版	edition/printing block-はん
+波	wave/waves-は
+枕	pillow/<span class='kall'>まくら</span>
+枠	frame<span class='kall'>わく</span>
+板	board/plank-いた
+岸	coast/beach-がん
+拙	incompetent/bungling-
+屈	crouched/yield<span class='kall'>くつ</span>
+若	young-わか
+苦	suffer/suffering<span class='kdom'>く</span>
+店	store-てん
+英	english/england<span class='kall'>えい</span>
+東	east<span class='kdom'>とう</span>
+典	ceremony/code<span class='kdom'>てん</span>
+苗	seedling<span class='kall'>なえ</span>
+松	pine tree<span class='kall'>まつ</span>
+林	wood/grove<span class='kdom'>りん</span>
+杯	cup/cupfuls-ぱい
+法	method-ほう
+沿	alongside/run alongside<span class='kall'>えん</span>
+泡	bubble-あわ
+金	gold-きん
+命	lifeforce/fate<span class='kdom'>めい</span>
+舎	building/cottage<span class='kall'>しゃ</span>
+念	desire/wish<span class='kall'>ねん</span>
+武	battle strength/warrior<span class='kdom'>ぶ</span>
+延	prolong<span class='kall'>えん</span>
+些	slight/<span class='kall'>さ</span>
+依	depends on/reliant-い
+使	use<span class='kdom'>し</span>
+例	example<span class='kall'>れい</span>
+夜	night-や
+卒	graduate<span class='kall'>そつ</span>
+京	capital<span class='kall'>きょう</span>
+怯	frightened/<span class='kall'>きょう</span>
+怖	scary/dreadful<span class='kall'>ふ</span>
+怪	suspiciou/suspicious<span class='kdom'>かい</span>
+径	diameter<span class='kall'>けい</span>
+性	nature of/sex<span class='kdom'>せい</span>
+姓	family name/surname-せい
+往	go out/journey<span class='kall'>おう</span>
+注	pour<span class='kall'>ちゅう</span>
+枚	sheets of/sheet of<span class='kall'>まい</span>
+枝	branche/bough-えだ
+放	release/set free<span class='kdom'>ほう</span>
+府	province/municipality<span class='kall'>ふ</span>
+抵	defying/resist<span class='kall'>てい</span>
+底	bottom-てい
+物	object/thing-もの
+忽	immediately/-
+忠	loyalty<span class='kall'>ちゅう</span>
+易	easy-い
+承	assent/acquiesce<span class='kall'>しょう</span>
+参	visit<span class='kdom'>さん</span>
+季	season/seasons<span class='kall'>き</span>
+実	truth/reality<span class='kdom'>じつ</span>
+宗	religion<span class='kdom'>しゅう</span>
+官	government/bureaucrat<span class='kall'>かん</span>
+宛	addressed to/address-
+祉	well being/welfare<span class='kall'>し</span>
+歩	walk-ほ
+征	conquer/subjugate<span class='kall'>せい</span>
+奇	odd/strange<span class='kall'>き</span>
+河	stream/river-が
+斉	simultaneously/adjusted<span class='kall'>せい</span>
+苛	torment/<span class='kall'>か</span>
+茂	grows thick/overgrown<span class='kall'>も</span>
+芽	sprout/bud-が
+茎	stem/stalk-くき
+盲	blind<span class='kall'>もう</span>
+昆	bug/descendants<span class='kall'>こん</span>
+昇	ascend/rise up<span class='kall'>しょう</span>
+卓	table/eminent<span class='kall'>たく</span>
+担	manager/shouldering<span class='kdom'>たん</span>
+抱	embrace-ほう
+拘	confine/arrest<span class='kall'>こう</span>
+拠	basi/foothold<span class='kdom'>きょ</span>
+券	ticket<span class='kall'>けん</span>
+奔	wild/bustle-ほん
+虎	tiger<span class='kall'>とら</span>
+並	line up/row-なみ
+述	expres/mention<span class='kall'>じゅつ</span>
+泣	crie/cry<span class='kall'>な</span>
+免	excuse<span class='kall'>めん</span>
+弦	string instrument/bowstring<span class='kall'>げん</span>
+侍	samurai/waiter-じ
+玩	toy/-
+非	not/un <span class='kall'>ひ</span>
+固	firm/harden<span class='kdom'>こ</span>
+門	gate/gates<span class='kall'>もん</span>
+国	country-こく
+表	surface<span class='kdom'>ひょう</span>
+奉	volunteer/dedicate-ほう
+長	long<span class='kdom'>ちょう</span>
+幸	happines/happiness<span class='kall'>こう</span>
+訂	revise<span class='kall'>てい</span>
+訃	obituary/-
+計	measure/plot<span class='kall'>けい</span>
+郎	young man/son<span class='kall'>ろう</span>
+恨	resent/resentment-
+限	limit<span class='kall'>げん</span>
+郊	suburb/outskirts<span class='kall'>こう</span>
+型	type/mould-けい
+剃	shave/-
+則	rule<span class='kall'>そく</span>
+削	scraping off/plane<span class='kall'>さく</span>
+変	unusual<span class='kdom'>へん</span>
+哀	pity/pathetic<span class='kall'>あい</span>
+亭	inn/pavilion<span class='kall'>てい</span>
+貞	virgin/upright<span class='kall'>てい</span>
+頁	page-
+負	defeated/defeat<span class='kdom'>ふ</span>
+赴	proceed<span class='kall'>ふ</span>
+施	execute/alms-し
+甚	immense/tremendously<span class='kall'>じん</span>
+政	politic/politics<span class='kdom'>せい</span>
+卸	wholesale<span class='kall'>おろし</span>
+歪	warp/-
+是	righteou/just so<span class='kall'>ぜ</span>
+送	send/send off<span class='kdom'>そう</span>
+迷	lost/astray<span class='kall'>めい</span>
+逃	escape-とう
+前	before/in front-ぜん
+面	mask<span class='kdom'>めん</span>
+首	neck-しゅ
+皇	emperor-こう
+星	star-せい
+牲	animal sacrifice<span class='kall'>せい</span>
+奏	play an instrument/play music<span class='kall'>そう</span>
+巻	roll/scroll-かん
+美	beautiful/beauty<span class='kall'>び</span>
+為	for/do<span class='kall'>い</span>
+県	prefecture<span class='kall'>けん</span>
+点	point/spot<span class='kall'>てん</span>
+珍	rare<span class='kall'>ちん</span>
+叙	describe/confer<span class='kall'>じょ</span>
+食	eat<span class='kdom'>しょく</span>
+炭	charcoal-たん
+幽	hazy/faint<span class='kall'>ゆう</span>
+峠	peak/mountain pass<span class='kall'>とうげ</span>
+品	good/goods-ひん
+飛	fly-ひ
+盆	tray/basin<span class='kall'>ぼん</span>
+垢	filth/<span class='kall'>く</span>
+垣	bamboo fence/hedge-がき
+城	castle-じょう
+拭	wipe/-
+拷	torture<span class='kall'>ごう</span>
+挑	challenge<span class='kall'>ちょう</span>
+疫	epidemic-えき
+段	step/grade<span class='kall'>だん</span>
+度	degree/degrees<span class='kdom'>ど</span>
+咲	bloom/blossom-
+咽	choke/-
+咳	cough/-
+革	reform/leather-かく
+帝	empire/sovereign<span class='kdom'>てい</span>
+南	south-なん
+風	wind-ふう
+殆	almost/-
+故	circumstance/happenstance<span class='kall'>こ</span>
+軌	track/rut<span class='kall'>き</span>
+俗	customary/vulgar<span class='kall'>ぞく</span>
+促	motivate/stimulate<span class='kall'>そく</span>
+俄	suddenly/-
+侵	invading/encroach<span class='kall'>しん</span>
+契	pledge<span class='kall'>けい</span>
+臭	smelly/stinking<span class='kall'>しゅう</span>
+泉	spring-せん
+専	specialize/specialty<span class='kall'>せん</span>
+封	sealing/seal<span class='kdom'>ふう</span>
+耐	endure/ proof<span class='kall'>たい</span>
+厚	thick-こう
+威	authority/intimidate<span class='kall'>い</span>
+虐	cruel/tyrannize<span class='kall'>ぎゃく</span>
+盾	shield-じゅん
+査	investigation/investigate<span class='kall'>さ</span>
+看	look after/watch over<span class='kall'>かん</span>
+恰	as though/-
+悔	regret/repent<span class='kall'>かい</span>
+恒	unchanging/constancy<span class='kall'>こう</span>
+某	anonymou/so and so<span class='kall'>ぼう</span>
+架	construct/erect<span class='kall'>か</span>
+柔	soft/tender-じゅう
+染	dyed/dye<span class='kall'>せん</span>
+信	believe/faith<span class='kall'>しん</span>
+便	convenient/convenience-べん
+係	clerk/person in charge-かかり
+保	preserve/protect<span class='kdom'>ほ</span>
+退	retreat<span class='kall'>たい</span>
+逆	reverse/inverted<span class='kdom'>ぎゃく</span>
+追	chase-つい
+砕	smash<span class='kall'>さい</span>
+砂	sand-さ
+研	sharpen/polish<span class='kall'>けん</span>
+窃	stealthy/stealth-
+宥	soothed/-
+宣	proclaiming/proclaim<span class='kall'>せん</span>
+畑	field/farm-ばたけ
+背	back/stature-せ
+胃	stomach<span class='kall'>い</span>
+怒	angry-ど
+怨	grudge<span class='kall'>おん</span>
+怠	lazy/neglect<span class='kall'>たい</span>
+急	hurry<span class='kall'>きゅう</span>
+括	tie together/fasten<span class='kall'>かつ</span>
+指	finger-し
+拾	pick up<span class='kall'>しゅう</span>
+浄	clean<span class='kall'>じょう</span>
+洞	cave/den-どう
+海	sea<span class='kdom'>かい</span>
+虹	rainbow<span class='kall'>にじ</span>
+狩	hunt<span class='kall'>しゅ</span>
+紅	crimson-こう
+独	alone/single<span class='kdom'>どく</span>
+活	lively<span class='kall'>かつ</span>
+派	clique/faction-は
+洗	wash<span class='kdom'>せん</span>
+浅	shallow<span class='kall'>あさ</span>
+洪	flood/deluge<span class='kall'>こう</span>
+洋	western/ocean<span class='kall'>よう</span>
+昧	unclear/<span class='kall'>まい</span>
+昨	yesterday<span class='kall'>さく</span>
+昭	shining<span class='kall'>しょう</span>
+映	reflected/reflect<span class='kall'>えい</span>
+約	promised/promise<span class='kall'>やく</span>
+級	clas/class<span class='kall'>きゅう</span>
+紀	century/chronicle<span class='kall'>き</span>
+律	law/rhythm<span class='kdom'>りつ</span>
+建	build-けん
+津	seaport/haven<span class='kall'>つ</span>
+皆	everyone/all<span class='kall'>かい</span>
+音	sound-おん
+香	fragrance/incense<span class='kall'>こう</span>
+春	springtime-しゅん
+軍	army<span class='kall'>ぐん</span>
+栄	prosper/flourish<span class='kdom'>えい</span>
+冠	crown-かん
+後	after/behind-こう
+待	waited/wait<span class='kall'>たい</span>
+持	hold-じ
+穿	dig/-
+客	guest-きゃく
+室	room<span class='kall'>しつ</span>
+屋	shop/roof<span class='kdom'>や</span>
+屍	corpse/<span class='kall'>し</span>
+昼	daytime-ひる
+卑	lowly<span class='kall'>ひ</span>
+単	single/simple<span class='kall'>たん</span>
+勇	courage<span class='kall'>ゆう</span>
+祖	ancestor-そ
+祝	celebrated/celebrate<span class='kdom'>しゅく</span>
+神	god/gods-しん
+冒	risked/risk<span class='kall'>ぼう</span>
+省	omitting/focus-しょう
+眉	eyebrow/-
+畏	respect/<span class='kall'>い</span>
+界	world<span class='kall'>かい</span>
+思	think-し
+発	departure/discharge-はつ
+重	heavy-じゅう
+乗	ride-じょう
+秋	autumn-あき
+科	department<span class='kall'>か</span>
+秒	second<span class='kall'>びょう</span>
+狭	narrow/cramped<span class='kall'>きょう</span>
+峡	gorge<span class='kall'>きょう</span>
+挟	sandwiched-
+孤	solitary/orphan<span class='kall'>こ</span>
+狐	fox/-
+弧	arch/arc<span class='kall'>こ</span>
+茨	thorny/briar-
+茸	mushroom/-
+荘	villa-そう
+要	need<span class='kall'>よう</span>
+姦	adultery/<span class='kall'>かん</span>
+姻	marry/matrimony<span class='kall'>いん</span>
+姿	figure-すがた
+荒	rough/laid waste-こう
+茶	tea<span class='kdom'>ちゃ</span>
+草	gras/grass-そう
+胞	cell/placenta-ほう
+肺	lung/lungs<span class='kall'>はい</span>
+胎	womb<span class='kall'>たい</span>
+胆	gall bladder<span class='kall'>たん</span>
+柄	characteristic/design<span class='kdom'>がら</span>
+柱	pillar-ちゅう
+枯	withered/wither-か
+相	each other/inter -そう
+閃	flash/<span class='kall'>せん</span>
+座	sit<span class='kall'>ざ</span>
+挫	sprain/<span class='kall'>ざ</span>
+差	variation/distinction<span class='kall'>さ</span>
+砲	canon/cannon-ほう
+祥	favorable/auspicious<span class='kall'>しょう</span>
+師	teacher/expert<span class='kdom'>し</span>
+紋	pattern/family crest<span class='kall'>もん</span>
+蚊	mosquito<span class='kall'>か</span>
+眩	dizzy/-
+罠	trap/-
+眠	sleep-みん
+挙	raise<span class='kall'>きょ</span>
+拳	fist/<span class='kall'>けん</span>
+益	profit/benefit<span class='kall'>えき</span>
+般	category/carrier-ぱん
+航	navigate<span class='kall'>こう</span>
+殺	kill<span class='kdom'>さつ</span>
+匿	conceal/hide<span class='kall'>とく</span>
+馬	horse-ば
+島	island-とう
+疲	tired<span class='kall'>ひ</span>
+被	cover/incur<span class='kall'>ひ</span>
+破	rip/rend<span class='kdom'>は</span>
+竜	dragon<span class='kall'>りゅう</span>
+祟	haunt/-
+峰	summit<span class='kall'>ぽう</span>
+討	debated/chastise<span class='kall'>とう</span>
+射	shoot<span class='kdom'>しゃ</span>
+将	leader<span class='kdom'>しょう</span>
+笑	laughed/laugh-しょう
+弱	weak-じゃく
+帯	belt/sash<span class='kdom'>たい</span>
+恥	shame-ち
+時	time<span class='kdom'>じ</span>
+耽	absorbed in/-
+特	special<span class='kall'>とく</span>
+逝	die/departed<span class='kall'>せい</span>
+唆	tempt<span class='kall'>さ</span>
+哲	philosophy<span class='kall'>てつ</span>
+倉	warehouse/godown<span class='kall'>そう</span>
+剣	sword/saber<span class='kall'>けん</span>
+飢	starving/hungry<span class='kall'>き</span>
+恭	admiration/respect-
+党	political party/party<span class='kall'>とう</span>
+俸	salary/stipend<span class='kall'>ぽう</span>
+旅	travel/trip-たび
+孫	grandchild-まご
+索	seek/cord<span class='kall'>さく</span>
+素	plain/elementary-そ
+班	squad<span class='kall'>はん</span>
+帰	return home/homecoming<span class='kdom'>き</span>
+浸	soak/immersed<span class='kall'>しん</span>
+兼	concurrently<span class='kall'>けん</span>
+書	writing/write<span class='kdom'>しょ</span>
+冥	underworld/<span class='kall'>めい</span>
+辱	humiliate/embarrass<span class='kall'>じょく</span>
+娠	pregnancy/with child<span class='kall'>しん</span>
+振	shake-しん
+唇	lip/lips<span class='kall'>くちびる</span>
+扇	fan-せん
+屑	scrap/-
+展	development/unfold<span class='kall'>てん</span>
+徐	gradually<span class='kall'>じょ</span>
+除	exclude<span class='kdom'>じょ</span>
+途	route<span class='kall'>と</span>
+捜	search<span class='kall'>そう</span>
+捕	capture/catch<span class='kall'>ほ</span>
+捉	catch/<span class='kall'>そく</span>
+挿	inserted/insert-そう
+称	praise/appellation<span class='kall'>しょう</span>
+秩	organized/regularity<span class='kall'>ちつ</span>
+秘	secret-ひ
+租	taxation/tariff<span class='kall'>そ</span>
+剥	peel/-
+剛	sturdy<span class='kall'>ごう</span>
+剤	dose<span class='kall'>ざい</span>
+高	tall-こう
+華	gorgeou/splendor-か
+荷	luggage/baggage-に
+衰	declined/decline<span class='kall'>すい</span>
+朗	cheerful/melodious<span class='kall'>ろう</span>
+狼	wolf/-
+既	already/previously<span class='kall'>き</span>
+根	root-こん
+悩	worry/trouble-のう
+悟	comprehend/enlightenment<span class='kall'>ご</span>
+悦	joy/ecstasy<span class='kall'>えつ</span>
+症	symptom/symptoms<span class='kall'>しょう</span>
+病	illnes/ill<span class='kdom'>びょう</span>
+疾	quickly/rapidly-
+耕	plow/till<span class='kall'>こう</span>
+栽	planting/plantation<span class='kall'>さい</span>
+耗	expend/decrease<span class='kall'>もう</span>
+珠	pearl-じゅ
+殊	particularly<span class='kall'>しゅ</span>
+株	stock/stocks<span class='kall'>かぶ</span>
+娘	daughter<span class='kall'>むすめ</span>
+姫	princes/princess<span class='kall'>ひめ</span>
+娯	pleasure/recreation<span class='kall'>ご</span>
+捗	progressing/<span class='kall'>ちょく</span>
+挽	grinding/-
+捌	deal with/-
+通	pass through/traffic<span class='kdom'>つう</span>
+速	fast/quick<span class='kall'>そく</span>
+透	transparent<span class='kall'>とう</span>
+造	created/create<span class='kall'>ぞう</span>
+陥	fall into/collapse<span class='kall'>かん</span>
+降	descend<span class='kall'>こう</span>
+院	institution/inst.<span class='kall'>いん</span>
+納	payment/settlement<span class='kdom'>のう</span>
+純	pure/genuine<span class='kall'>じゅん</span>
+紐	string/-
+紛	confusing/distract<span class='kall'>ふん</span>
+舐	licked/-
+紙	paper-し
+配	distribute<span class='kdom'>はい</span>
+酒	alcohol/sake-しゅ
+酌	pour alcohol/bartending<span class='kall'>しゃく</span>
+勉	diligent/exertion<span class='kall'>べん</span>
+従	obey/accompany<span class='kall'>じゅう</span>
+起	wake/rouse<span class='kdom'>き</span>
+徒	on foot/junior<span class='kall'>と</span>
+挨	greeting/<span class='kall'>あい</span>
+捩	twisted/-
+涙	tear/tears<span class='kall'>なみだ</span>
+埃	dust/-
+凄	amazing/<span class='kall'>せい</span>
+凌	survive/-
+凍	freeze/frozen<span class='kall'>とう</span>
+員	member/employee<span class='kall'>いん</span>
+財	property<span class='kdom'>ざい</span>
+針	needle-しん
+釘	nails2/-
+恐	fear<span class='kall'>きょう</span>
+恵	blessed/favor-え
+恋	romance-こい
+恩	grateful/grace<span class='kall'>おん</span>
+核	core/nucleus<span class='kall'>かく</span>
+栓	cork/plug<span class='kall'>せん</span>
+桁	digit/-
+脅	threatened/threaten<span class='kall'>きょう</span>
+骨	bone/skeleton-こつ
+宵	nightime/wee hours<span class='kall'>よい</span>
+留	stay/detain<span class='kdom'>りゅう</span>
+袖	sleeve<span class='kall'>そで</span>
+畜	livestock<span class='kall'>ちく</span>
+息	breath-そく
+鬼	demon/ghost-おに
+埋	buried/bury<span class='kall'>まい</span>
+残	remain/remainder<span class='kall'>ざん</span>
+能	ability<span class='kall'>のう</span>
+烈	intense/ardent<span class='kall'>れつ</span>
+真	true-しん
+夏	summer-なつ
+貢	contribute/tribute-ぐ
+家	house-か
+容	contain<span class='kall'>よう</span>
+宴	party/banquet-えん
+案	proposal/plan<span class='kall'>あん</span>
+宮	palace/shinto shrine-きゅう
+害	harm<span class='kall'>がい</span>
+連	take along<span class='kall'>れん</span>
+軒	overhang/flats-のき
+庫	storehouse/warehouse<span class='kall'>こ</span>
+陣	military encampment/camp<span class='kall'>じん</span>
+原	meadow<span class='kdom'>げん</span>
+席	seat<span class='kall'>せき</span>
+庭	garden/courtyard-にわ
+料	fee<span class='kall'>りょう</span>
+粉	powder/flour-ふん
+粋	stylish/chic-すい
+胸	chest/bosom-きょう
+脈	pulse/vein<span class='kall'>みゃく</span>
+脂	grease/fat-し
+脇	armpit<span class='kall'>わき</span>
+胴	torso/trunk<span class='kall'>どう</span>
+脆	fragile/-
+敏	agile/cleverness<span class='kall'>びん</span>
+致	end up/doth<span class='kall'>ち</span>
+倒	collapsing/overthrow<span class='kdom'>とう</span>
+梅	plum-うめ
+格	statu/status<span class='kdom'>かく</span>
+校	school/exam<span class='kall'>こう</span>
+桃	peach/peach tree<span class='kall'>もも</span>
+桜	cherry blossom/cherry tree<span class='kall'>さくら</span>
+浪	wandering<span class='kall'>ろう</span>
+浜	beach/seacoast-はま
+浮	float/floating-ふ
+浴	bathe<span class='kall'>よく</span>
+流	flowing/current<span class='kdom'>りゅう</span>
+消	erase/extinguish<span class='kdom'>しょう</span>
+俳	actor/haiku<span class='kall'>はい</span>
+修	fix/discipline<span class='kdom'>しゅう</span>
+候	weather/climate<span class='kdom'>こう</span>
+俺	i/-
+倫	ethic/ethics<span class='kall'>りん</span>
+個	individual<span class='kall'>こ</span>
+値	price-ね
+借	borrow<span class='kall'>しゃく</span>
+倍	double<span class='kall'>ばい</span>
+記	noted/scribe<span class='kall'>き</span>
+訓	training/instruction<span class='kall'>くん</span>
+託	assign responsibility/consign<span class='kall'>たく</span>
+進	move forward/advance<span class='kdom'>しん</span>
+週	week<span class='kall'>しゅう</span>
+逸	avert/elude<span class='kall'>いつ</span>
+副	second in command/vice <span class='kall'>ふく</span>
+側	side<span class='kdom'>がわ</span>
+酔	drunk<span class='kall'>すい</span>
+執	persistent/tenacious-しつ
+務	task<span class='kall'>む</span>
+殻	shell/husk-がら
+袋	bag/sack-ぶくろ
+移	transfer/shift<span class='kall'>い</span>
+瓶	bottle/flower pot<span class='kall'>びん</span>
+釈	explanation/interpretation<span class='kdom'>しゃく</span>
+寄	approach/draw near<span class='kdom'>き</span>
+宿	lodging/inn-しゅく
+密	confidential/secrecy<span class='kall'>みつ</span>
+欲	want/longing<span class='kall'>よく</span>
+盗	steal<span class='kall'>とう</span>
+盛	thriving/boom-せい
+唱	chant<span class='kall'>しょう</span>
+望	wish/ambition<span class='kdom'>ぼう</span>
+崩	crumble<span class='kall'>ほう</span>
+庶	ordinary person/commoner<span class='kall'>しょ</span>
+鳥	bird-とり
+魚	fish-ぎょ
+菓	candy/confectionary<span class='kall'>か</span>
+巣	nest-す
+異	vary/uncommon<span class='kall'>い</span>
+偵	scouting/spy<span class='kall'>てい</span>
+偶	unexpectedly/accidentally<span class='kall'>ぐう</span>
+偏	biased/partial<span class='kall'>へん</span>
+偽	false/falsehood-ぎ
+祭	festival/ritual<span class='kall'>さい</span>
+票	vote/ballot-ひょう
+崇	admire/adore<span class='kall'>すう</span>
+描	draw/sketch<span class='kall'>びょう</span>
+菌	bacteria/germ<span class='kall'>きん</span>
+黄	yellow-き
+猫	cat<span class='kall'>ねこ</span>
+率	percentage/ratio-りつ
+章	chapter/badge<span class='kall'>しょう</span>
+商	trade/make a deal<span class='kall'>しょう</span>
+虚	vacant/void-きょ
+産	produce/products<span class='kdom'>さん</span>
+鹿	deer-
+麻	numb/hemp-ま
+累	accumulating/accumulate<span class='kall'>るい</span>
+略	abbreviation<span class='kall'>りゃく</span>
+亀	turtle/tortoise-き
+術	skill/art<span class='kall'>じゅつ</span>
+得	gain<span class='kdom'>とく</span>
+痒	itchy/-
+痕	scar/<span class='kall'>こん</span>
+彫	engrave/carve<span class='kall'>ちょう</span>
+彩	coloring<span class='kall'>さい</span>
+惨	miserable/wretched-さん
+済	conclude/finish-さい
+淡	pale/thin<span class='kall'>たん</span>
+添	attachment/annexed<span class='kall'>てん</span>
+停	cease/halt<span class='kall'>てい</span>
+涼	refreshing<span class='kall'>りょう</span>
+液	liquid/fluid<span class='kall'>えき</span>
+械	machine/contraption<span class='kall'>かい</span>
+桶	bucket/<span class='kall'>おけ</span>
+梯	ladder/-
+眼	eyeball<span class='kall'>がん</span>
+眺	gaze/stare<span class='kall'>ちょう</span>
+郷	birthplace/hometown<span class='kdom'>きょう</span>
+符	mark/token-ふ
+第	rank number/no.<span class='kall'>だい</span>
+笛	flute-ふえ
+舵	ship steering rudder/<span class='kall'>だ</span>
+舶	vessel/liner<span class='kall'>ぱく</span>
+船	ship-せん
+脳	brain<span class='kall'>のう</span>
+脱	undres/undress<span class='kall'>だつ</span>
+豚	pig/pork<span class='kall'>ぶた</span>
+脚	leg/shins<span class='kdom'>きゃく</span>
+掃	sweeping/sweep<span class='kall'>そう</span>
+授	receive/impart<span class='kall'>じゅ</span>
+捲	turn the page/<span class='kall'>けん</span>
+掴	grab/-
+捧	dedicate/-
+排	eliminate/repudiate<span class='kall'>はい</span>
+控	refrain/withdraw-こう
+掛	put/hang<span class='kall'>か</span>
+接	connect/touch<span class='kall'>せつ</span>
+採	pick<span class='kall'>さい</span>
+捨	throw away/discard<span class='kall'>しゃ</span>
+据	set-
+患	sick/afflicted<span class='kall'>かん</span>
+悠	relaxed/remote<span class='kall'>ゆう</span>
+悪	bad-あく
+窓	window-まど
+惚	fall in love/<span class='kall'>こつ</span>
+偲	recall/-
+著	authored/renowned<span class='kall'>ちょ</span>
+猪	boar-
+都	metropoli/metropolis<span class='kdom'>と</span>
+探	looking for/grope<span class='kall'>たん</span>
+梨	pear/pear tree<span class='kall'>なし</span>
+深	deep-しん
+唸	growled/-
+捻	wrenched/-
+斜	diagonal<span class='kall'>しゃ</span>
+釣	fishing/angling<span class='kall'>つ</span>
+渉	involved/ford<span class='kall'>しょう</span>
+寂	lonely/loneliness<span class='kall'>じゃく</span>
+戚	relative/<span class='kall'>せき</span>
+渋	bitter/astringent<span class='kall'>じゅう</span>
+婦	lady-ふ
+婆	grandmother/old woman<span class='kall'>ば</span>
+婚	marriage<span class='kall'>こん</span>
+萎	wilted/<span class='kall'>い</span>
+剰	exces/surplus<span class='kall'>じょう</span>
+唾	saliva/<span class='kall'>だ</span>
+郵	mailing/mail<span class='kall'>ゆう</span>
+猟	hunting animal/game hunting<span class='kall'>りょう</span>
+猛	fierce<span class='kall'>もう</span>
+動	move<span class='kall'>どう</span>
+勘	intuition<span class='kall'>かん</span>
+雪	snow-ゆき
+常	usual<span class='kdom'>じょう</span>
+堂	auditorium/hall<span class='kall'>どう</span>
+強	strong-きょう
+張	affix/lengthen<span class='kdom'>ちょう</span>
+帳	notebook<span class='kall'>ちょう</span>
+掻	scratch/-
+蛍	firefly/lightning bug<span class='kall'>けい</span>
+蛇	snake-じゃ
+推	assume/conjecture<span class='kall'>すい</span>
+唯	only/solely<span class='kall'>ゆい</span>
+雀	sparrow/<span class='kall'>すずめ</span>
+部	section<span class='kall'>ぶ</span>
+陪	aid/auxiliary<span class='kall'>ばい</span>
+培	cultivating/cultivate<span class='kall'>ばい</span>
+販	sale/marketing<span class='kall'>はん</span>
+旋	rotating/rotation<span class='kall'>せん</span>
+敗	failed/failure-はい
+族	family/tribe<span class='kall'>ぞく</span>
+域	area/range<span class='kall'>いき</span>
+掘	excavated/dig<span class='kall'>くつ</span>
+堀	canal/ditch<span class='kall'>ほり</span>
+理	logic<span class='kall'>り</span>
+野	plain/plains-や
+黒	black-くろ
+康	physically fit/sane<span class='kall'>こう</span>
+健	healthy<span class='kall'>けん</span>
+逮	arrest/apprehend<span class='kall'>たい</span>
+粛	silent/solemn<span class='kall'>しゅく</span>
+規	regulation/standard<span class='kdom'>き</span>
+現	appeared/present<span class='kall'>げん</span>
+視	look/inspection<span class='kall'>し</span>
+習	learned/learn<span class='kdom'>しゅう</span>
+混	mixed/mix<span class='kall'>こん</span>
+翌	the following<span class='kall'>よく</span>
+基	foundation/fundamentals<span class='kdom'>き</span>
+涯	horizon<span class='kall'>がい</span>
+崖	cliff/<span class='kall'>がい</span>
+惜	regrettable/pity-
+措	course of action/set aside<span class='kall'>そ</span>
+悼	mourning/lament<span class='kall'>とう</span>
+掲	posted/put up a notice<span class='kall'>けい</span>
+喝	reprimanding/hoarse<span class='kall'>かつ</span>
+渇	thirsty/thirst<span class='kall'>かつ</span>
+断	turned down/severance<span class='kall'>だん</span>
+粗	coarse<span class='kall'>そ</span>
+粘	sticky<span class='kall'>ねん</span>
+粒	grain/grains-つぶ
+情	emotion/feelings<span class='kdom'>じょう</span>
+責	blame<span class='kall'>せき</span>
+清	clear/pure<span class='kdom'>せい</span>
+貧	poor/poverty-ひん
+貨	money/freight<span class='kall'>か</span>
+貫	pierce<span class='kall'>かん</span>
+斬	chop off/<span class='kall'>ざん</span>
+乾	dries out/drought<span class='kall'>かん</span>
+転	fall down/revolve<span class='kall'>てん</span>
+軟	soft quality/soft<span class='kall'>なん</span>
+頃	occasion/<span class='kall'>ごろ</span>
+貪	greed/-
+頂	top/place on the head<span class='kall'>ちょう</span>
+菜	vegetable-さい
+渓	ravine/mountain stream<span class='kall'>けい</span>
+淫	lewd/-
+閉	close/closed<span class='kdom'>へい</span>
+爽	invigorating/<span class='kall'>そう</span>
+問	question<span class='kdom'>もん</span>
+険	steep/precipitous<span class='kall'>けん</span>
+陶	pottery<span class='kall'>とう</span>
+陰	shadow/shade-いん
+陸	land<span class='kall'>りく</span>
+隆	flourish/hump<span class='kall'>りゅう</span>
+陳	declared/line up<span class='kall'>ちん</span>
+絆	bond/-
+経	elapse/sutra<span class='kdom'>けい</span>
+紹	introduction/introduce<span class='kall'>しょう</span>
+紺	dark blue/navy blue<span class='kall'>こん</span>
+赦	pardon<span class='kall'>しゃ</span>
+教	teaching/teach<span class='kdom'>きょう</span>
+球	sphere/ball<span class='kall'>きゅう</span>
+救	rescue/salvation<span class='kall'>きゅう</span>
+終	end<span class='kdom'>しゅう</span>
+細	thin/dainty<span class='kdom'>さい</span>
+紳	refined man/sire<span class='kall'>しん</span>
+組	assemble/association-くみ
+許	permit<span class='kall'>きょ</span>
+設	establish/establishment<span class='kall'>せつ</span>
+訳	translate-やく
+訪	go and see/call on<span class='kall'>ほう</span>
+訟	sue<span class='kall'>しょう</span>
+這	crawling/-
+弾	bounced/bullet<span class='kdom'>だん</span>
+圏	range/sphere<span class='kall'>けん</span>
+湾	bay/gulf<span class='kall'>わん</span>
+補	supplement<span class='kdom'>ほ</span>
+傍	beside/bystander<span class='kall'>ぼう</span>
+偉	great/admirable<span class='kall'>い</span>
+備	prepare/equip<span class='kall'>び</span>
+揺	swaying/swing<span class='kall'>よう</span>
+遥	distant/-
+援	assist/abet<span class='kall'>えん</span>
+猥	obscene/-
+湧	gushed/-
+隈	shade/-
+閑	leisurely/leisure<span class='kall'>かん</span>
+焚	light a fire/-
+森	forest-しん
+普	general/universal<span class='kall'>ふ</span>
+道	road/road way-どう
+着	wear/don-ちゃく
+湿	damp<span class='kall'>しつ</span>
+鈍	dull<span class='kall'>どん</span>
+飯	meal-はん
+飲	drink-の
+悲	sad<span class='kall'>ひ</span>
+扉	front door-とびら
+斐	worthwhile/-
+喜	glad/rejoice<span class='kall'>き</span>
+善	excellent/virtuous<span class='kall'>ぜん</span>
+量	quantity<span class='kall'>りょう</span>
+童	youngster/juvenile<span class='kdom'>どう</span>
+達	reach/accomplished-たつ
+就	commence/concerning<span class='kdom'>しゅう</span>
+報	report-ほう
+晴	clear up<span class='kall'>せい</span>
+惰	sloth/lazy<span class='kall'>だ</span>
+博	expert/dr.-はく
+葬	burial/interment<span class='kall'>そう</span>
+募	recruit<span class='kall'>ぼ</span>
+落	drop/fall<span class='kdom'>らく</span>
+棺	coffin<span class='kall'>かん</span>
+椅	chair/<span class='kall'>い</span>
+棒	pole/rod<span class='kall'>ぼう</span>
+塀	fence<span class='kall'>へい</span>
+堰	dam/<span class='kall'>せき</span>
+堪	withstand-かん
+幾	how much/how many-いく
+紫	purple-むらさき
+傘	umbrella-かさ
+滋	nourishment/nourishing-
+番	turn<span class='kall'>ばん</span>
+歯	tooth-ば
+奥	inner/core<span class='kall'>おく</span>
+尊	esteem/revered-そん
+猶	postponed/waver<span class='kall'>ゆう</span>
+酢	vinegar<span class='kall'>す</span>
+富	wealth-ふ
+帽	hat/cap<span class='kall'>ぼう</span>
+幅	width/hanging scroll-はば
+粧	makeup/cosmetics<span class='kall'>しょう</span>
+距	distance/long distance<span class='kall'>きょ</span>
+堅	solid/strict<span class='kall'>けん</span>
+覚	remember/memorize<span class='kall'>かく</span>
+営	conducting busines/occupation<span class='kall'>えい</span>
+覗	peek/-
+象	image/elephant-しょう
+隊	squadron/regiment<span class='kall'>たい</span>
+遂	achieve/consummate<span class='kall'>すい</span>
+創	begin/genesis<span class='kall'>そう</span>
+割	divide/proportion-わり
+慌	panicking/disconcerted<span class='kall'>こう</span>
+街	avenue/boulevard-がい
+御	honorable-ぎょ
+復	restored/restore<span class='kdom'>ふく</span>
+循	circulation/sequential<span class='kall'>じゅん</span>
+棟	ward/ridgepole<span class='kall'>とう</span>
+疎	ignorant/alienate<span class='kall'>そ</span>
+棘	thorn/-
+塁	base/bases-
+畳	tatami mat-たたみ
+喧	noisy/<span class='kall'>けん</span>
+握	grip<span class='kall'>あく</span>
+硬	hard/stiff<span class='kall'>こう</span>
+属	belong<span class='kall'>ぞく</span>
+裁	judge/tailor<span class='kall'>さい</span>
+装	dresse/attire<span class='kdom'>そう</span>
+喪	funeral/miss-も
+裂	split-れつ
+搭	load/board<span class='kall'>とう</span>
+塔	tower/pagoda<span class='kall'>とう</span>
+裕	rich/abundant<span class='kall'>ゆう</span>
+答	answer/solution<span class='kdom'>とう</span>
+集	gather<span class='kall'>しゅう</span>
+葉	leaf-ば
+喋	speak/-
+絞	wring/strangle-
+給	provide/salary<span class='kall'>きゅう</span>
+結	tie<span class='kdom'>けつ</span>
+敢	brave/daring<span class='kall'>かん</span>
+敬	show respect/awe<span class='kdom'>けい</span>
+散	scattering/scatter<span class='kall'>さん</span>
+寒	cold<span class='kdom'>かん</span>
+衆	many people/masses-しゅう
+掌	palm of my hand/manipulate<span class='kall'>しょう</span>
+換	exchanged/interchange<span class='kall'>かん</span>
+喚	yell<span class='kall'>かん</span>
+喫	consuming/consume<span class='kall'>きつ</span>
+喉	throat/-
+測	asses/fathom<span class='kall'>そく</span>
+貯	saving/savings<span class='kall'>ちょ</span>
+貼	stick/-
+雇	hired/employ-こ
+雄	male-ゆう
+焦	char<span class='kall'>しょう</span>
+喘	panting/-
+嵐	storm-
+嵌	fit into/-
+隅	corner-すみ
+過	excessive/overdo<span class='kall'>か</span>
+渦	whirlpool-うず
+遇	encountered/interview<span class='kall'>ぐう</span>
+場	location-ば
+湯	hot water-ゆ
+陽	sunlight/sunshine-よう
+揚	lift/hoist-よう
+稀	uncommon/-
+税	tax<span class='kall'>ぜい</span>
+程	extent<span class='kdom'>てい</span>
+絶	terminate/discontinue<span class='kdom'>ぜつ</span>
+絵	picture<span class='kdom'>え</span>
+統	unify/overall<span class='kall'>とう</span>
+絡	entangled/entwine<span class='kall'>らく</span>
+媒	go between/mediator<span class='kall'>ばい</span>
+欺	deceive/deceit<span class='kall'>ぎ</span>
+揉	massage/-
+智	wisdom-
+替	replace/exchange-がえ
+晶	crystal/sparkle<span class='kall'>しょう</span>
+揃	assembled/-
+愉	enjoyable/pleasure<span class='kall'>ゆ</span>
+喩	metaphor/<span class='kall'>ゆ</span>
+満	satisfied/full<span class='kall'>まん</span>
+減	decrease/dwindle<span class='kall'>げん</span>
+渡	crosse/transit<span class='kdom'>と</span>
+湖	lake-こ
+港	harbor-こう
+温	warm temperature/warm<span class='kall'>おん</span>
+暑	hot weather/sultry<span class='kall'>しょ</span>
+最	most/utmost<span class='kall'>さい</span>
+景	scenery<span class='kall'>けい</span>
+煮	simmering/boil<span class='kall'>に</span>
+然	like that/sort of thing<span class='kdom'>ぜん</span>
+無	nothing/nothingness<span class='kdom'>む</span>
+随	freely/follow<span class='kall'>ずい</span>
+殖	multiplying/augment<span class='kall'>しょく</span>
+階	stair/story<span class='kall'>かい</span>
+痢	diarrhea<span class='kall'>り</span>
+痛	pain-つう
+痩	lose weight/-
+尋	inquire<span class='kall'>じん</span>
+惑	perplexing/beguile<span class='kall'>わく</span>
+廊	corridor<span class='kall'>ろう</span>
+廃	abolished/abolish-はい
+遍	everywhere-へん
+遅	slow<span class='kall'>ち</span>
+遊	playing/play-ゆう
+開	open<span class='kall'>かい</span>
+悶	agony/<span class='kall'>もん</span>
+間	space/interval-かん
+検	inspection/examination<span class='kall'>けん</span>
+植	plant<span class='kdom'>しょく</span>
+極	extreme/poles-きょく
+等	equivalent/etc.<span class='kdom'>とう</span>
+策	scheme<span class='kall'>さく</span>
+筋	muscle-すじ
+筆	writing brush-ひつ
+筒	cylinder-とう
+詞	word/parts of speech<span class='kall'>し</span>
+腕	arm-うで
+腔	cavity/<span class='kall'>こう</span>
+勝	win/victory-しょう
+越	passe/surpass<span class='kall'>えつ</span>
+提	submit/propose<span class='kdom'>てい</span>
+堤	dike-つつみ
+超	exceed/transcend<span class='kall'>ちょう</span>
+揮	commanded/brandish<span class='kall'>き</span>
+運	carry<span class='kall'>うん</span>
+軽	light/lightly-けい
+軸	axi/axis<span class='kall'>じく</span>
+暁	daybreak<span class='kall'>あかつき</span>
+晩	nighttime/nightfall<span class='kall'>ばん</span>
+焼	roasting/bake-しょう
+期	period<span class='kdom'>き</span>
+朝	morning-ちょう
+棚	shelf-だな
+厨	kitchen/<span class='kall'>ちゅう</span>
+登	climb/ascend<span class='kdom'>とう</span>
+短	short<span class='kdom'>たん</span>
+買	buy-か
+貰	get/-
+貿	trading activity/trade<span class='kall'>ぼう</span>
+雰	atmosphere<span class='kall'>ふん</span>
+勤	hard working/diligence<span class='kdom'>きん</span>
+雲	cloud-うん
+順	sequence/obey<span class='kall'>じゅん</span>
+項	paragraph<span class='kall'>こう</span>
+須	required/ought<span class='kall'>す</span>
+賀	celebration/congratulations<span class='kall'>が</span>
+貸	lend-たい
+貴	valuable/precious<span class='kall'>き</span>
+費	expense-ひ
+評	evaluate<span class='kdom'>ひょう</span>
+証	evidence<span class='kall'>しょう</span>
+詐	fraud/lie<span class='kall'>さ</span>
+訴	appealed/accusation<span class='kall'>そ</span>
+詠	compose poetry/recitation-
+診	medical examination/checkup<span class='kall'>しん</span>
+裏	back side/back-うら
+蓄	amasse/amass<span class='kall'>ちく</span>
+塊	lump/clod<span class='kall'>かい</span>
+嗅	sniffing/<span class='kall'>きゅう</span>
+漠	vague<span class='kall'>ばく</span>
+奨	promote/exhort<span class='kall'>しょう</span>
+滞	delayed/stagnate<span class='kall'>たい</span>
+羨	enviou/envious<span class='kall'>せん</span>
+溝	ditche/gutter<span class='kall'>みぞ</span>
+義	obligation/righteousness<span class='kall'>ぎ</span>
+較	comparison/contrast<span class='kall'>かく</span>
+摂	intake/vicarious<span class='kall'>せつ</span>
+聖	sacred/holy<span class='kall'>せい</span>
+寛	generou/tolerant<span class='kall'>かん</span>
+窟	cavern/<span class='kall'>くつ</span>
+碗	tea bowl/<span class='kall'>わん</span>
+寝	lie down-ね
+詳	detailed<span class='kall'>しょう</span>
+新	new<span class='kdom'>しん</span>
+群	gather together/flock<span class='kall'>ぐん</span>
+辞	resign<span class='kall'>じ</span>
+睨	glare/-
+鼠	mouse/-
+献	contribution/offering-けん
+慎	careful/humility<span class='kall'>しん</span>
+債	debt/bond<span class='kall'>さい</span>
+慨	emotional/rue<span class='kall'>がい</span>
+督	supervise/coach<span class='kall'>とく</span>
+僧	buddhist monk/buddhist priest-そう
+腎	kidney/<span class='kall'>じん</span>
+夢	dream-む
+置	positioned/placement-ち
+署	government organization/signature<span class='kall'>しょ</span>
+罪	guilty/guilt<span class='kdom'>ざい</span>
+虜	captive<span class='kall'>りょ</span>
+勢	energy/forces<span class='kdom'>せい</span>
+廉	inexpensive/bargain-
+傑	outstanding/greatness<span class='kall'>けつ</span>
+準	standard/semi <span class='kall'>じゅん</span>
+携	portable<span class='kall'>けい</span>
+傷	wound-しょう
+嗜	fond/<span class='kall'>し</span>
+嗄	hoarse/-
+嘩	quarrel/-
+滝	waterfall<span class='kall'>たき</span>
+溶	melted/melt<span class='kall'>よう</span>
+滑	slip/slippery<span class='kall'>かつ</span>
+福	good fortune/blessing<span class='kall'>ふく</span>
+隔	isolated/isolate<span class='kall'>かく</span>
+隙	gap/<span class='kall'>げき</span>
+照	illuminated/illuminate<span class='kall'>しょう</span>
+蒸	vapor/steam<span class='kall'>じょう</span>
+煎	brewing/-
+腫	swelling/<span class='kall'>しゅ</span>
+勧	recommend/persuade<span class='kall'>かん</span>
+働	work-どう
+睡	drowsy<span class='kall'>すい</span>
+頑	stubborn<span class='kall'>がん</span>
+預	depositing/deposit<span class='kall'>よ</span>
+傾	inclined/lean<span class='kall'>けい</span>
+鼓	drum-こ
+頓	rapidly/<span class='kall'>とん</span>
+煩	annoying/anxiety-はん
+靴	shoe/shoes-くつ
+僅	a little/-
+煙	smoke-えん
+戦	war<span class='kdom'>せん</span>
+裸	naked-ら
+禅	zen<span class='kall'>ぜん</span>
+歳	year old/year end-さい
+滅	ruin/destroy<span class='kall'>めつ</span>
+載	placement/load<span class='kall'>さい</span>
+腺	gland/<span class='kall'>せん</span>
+腹	abdomen-はら
+腰	waist/loins-こし
+腸	intestine/intestines<span class='kall'>ちょう</span>
+継	inherit-けい
+続	continue<span class='kall'>ぞく</span>
+絹	silk<span class='kall'>きぬ</span>
+賃	rate/fare<span class='kall'>ちん</span>
+資	asset/assets<span class='kall'>し</span>
+損	losse/damage<span class='kall'>そん</span>
+催	hold an event/sponsor<span class='kall'>さい</span>
+稚	childish/immature<span class='kall'>ち</span>
+雅	elegant/gracious-が
+搬	transport/conveyor-はん
+殿	imperial palace/mr.-でん
+裾	hem/-
+源	source<span class='kall'>げん</span>
+溺	drown/<span class='kall'>でき</span>
+溜	accumulate/-
+豊	abundant/bountiful<span class='kall'>ほう</span>
+嵩	volume/-
+農	farm/agriculture<span class='kall'>のう</span>
+嫌	dislike-けん
+嫁	bride/marry into-よめ
+嫉	envy/-
+跡	trace/tracks-せき
+跳	jumping/hop<span class='kall'>ちょう</span>
+路	path<span class='kdom'>ろ</span>
+嘆	grief/sigh<span class='kall'>たん</span>
+漢	chinese/sino <span class='kall'>かん</span>
+酬	reward/repay<span class='kall'>しゅう</span>
+賊	thief/burglar<span class='kall'>ぞく</span>
+賂	bribery/-
+賄	bribe-
+鈴	small bell<span class='kall'>すず</span>
+鉄	iron<span class='kall'>てつ</span>
+鉢	flowerpot/bowl-はち
+鉛	lead/lead (metal)-えん
+鉱	mineral<span class='kall'>こう</span>
+幹	tree trunk-かん
+跨	straddle/-
+誇	proud/boast<span class='kall'>こ</span>
+該	applicable/above stated<span class='kall'>がい</span>
+飽	tired of/sated<span class='kall'>ほう</span>
+飼	raising an animal/domesticate-か
+飾	decorate-しょく
+節	time of year/node<span class='kdom'>せつ</span>
+溢	overflowing/-
+禁	ban/prohibition<span class='kall'>きん</span>
+塗	painting/paint<span class='kall'>と</span>
+塩	salt-えん
+盟	alliance<span class='kall'>めい</span>
+塞	block/-そく
+話	talk/tale-わ
+誉	honor/reputation<span class='kall'>よ</span>
+詫	apologize/-
+誠	sincere/sincerity<span class='kall'>せい</span>
+詰	pack/packed-きつ
+詣	visit a temple/<span class='kall'>けい</span>
+試	test<span class='kall'>し</span>
+詩	poem<span class='kall'>し</span>
+詮	discussion/<span class='kall'>せん</span>
+馴	familiar with/-
+鳩	pigeon-
+墓	grave-はか
+幕	curtain-ばく
+雷	lightning/thunder-らい
+零	zero<span class='kall'>れい</span>
+電	electricity<span class='kall'>でん</span>
+触	touch/contact<span class='kall'>しょく</span>
+蜂	bee/-はち
+解	unravel<span class='kdom'>かい</span>
+愛	love<span class='kall'>あい</span>
+暇	free time/spare time-か
+暗	dark/darkness<span class='kdom'>あん</span>
+暖	warm weather/warmth<span class='kall'>だん</span>
+遠	far/distant-えん
+園	park<span class='kdom'>えん</span>
+猿	monkey<span class='kall'>さる</span>
+想	thought/concept<span class='kdom'>そう</span>
+感	feel/emotion<span class='kall'>かん</span>
+愚	foolish<span class='kall'>ぐ</span>
+意	idea<span class='kall'>い</span>
+棄	abandon<span class='kall'>き</span>
+楽	fun/music-らく
+業	busines/profession<span class='kdom'>ぎょう</span>
+微	subtle/delicate<span class='kall'>び</span>
+違	difference<span class='kall'>い</span>
+数	number<span class='kdom'>すう</span>
+痴	stupid<span class='kall'>ち</span>
+痺	paralyzed/-
+遣	dispatch<span class='kall'>けん</span>
+魂	soul-こん
+銃	gun<span class='kall'>じゅう</span>
+鞄	briefcase/-
+寧	polite/rather-
+僕	me<span class='kall'>ぼく</span>
+窪	hollow/depression-
+算	calculate-さん
+箇	item<span class='kall'>か</span>
+管	pipe<span class='kall'>かん</span>
+鼻	nose<span class='kdom'>はな</span>
+徴	feature/indications<span class='kall'>ちょう</span>
+旗	flag/national flag-き
+複	multiple/duplicate<span class='kall'>ふく</span>
+疑	doubt<span class='kall'>ぎ</span>
+穀	cereal grain/cereals<span class='kall'>こく</span>
+製	manufacutured/made in...<span class='kall'>せい</span>
+需	demand<span class='kall'>じゅ</span>
+歌	sing/song-か
+端	tip/edge-たん
+彰	commended/patent<span class='kall'>しょう</span>
+障	obstacle/hinder<span class='kall'>しょう</span>
+境	boundary-きょう
+塵	garbage/-
+腐	rot-ふ
+塾	cram school<span class='kall'>じゅく</span>
+貌	appearance/<span class='kall'>ぼう</span>
+稲	rice plant-いな
+種	seed/species<span class='kdom'>しゅ</span>
+暮	becomes dark/livelihood<span class='kall'>ぼ</span>
+蔑	contempt/<span class='kall'>べつ</span>
+慕	adore/pining-
+像	statue<span class='kall'>ぞう</span>
+豪	powerful/overpowering<span class='kall'>ごう</span>
+僚	colleague<span class='kall'>りょう</span>
+歴	past/curriculum<span class='kall'>れき</span>
+暦	calendar-れき
+蜜	honey<span class='kall'>みつ</span>
+踊	dance/jump-おど
+慣	accustomed<span class='kall'>かん</span>
+賑	bustling/-
+領	territory/jurisdiction<span class='kall'>りょう</span>
+構	care/posture<span class='kall'>こう</span>
+様	mr./esq.-よう
+模	imitate/imitation<span class='kdom'>も</span>
+憎	hate<span class='kall'>ぞう</span>
+増	increase<span class='kall'>ぞう</span>
+層	layer/stratum<span class='kall'>そう</span>
+遭	ran into/encounter<span class='kall'>そう</span>
+遮	obstructing/intercept<span class='kall'>しゃ</span>
+適	appropriate/suitable<span class='kall'>てき</span>
+嘘	lie/-
+碑	stone monument/tombstone<span class='kall'>ひ</span>
+鳴	ring/chirp-めい
+磁	magnet<span class='kall'>じ</span>
+漂	drifting/drift<span class='kall'>ひょう</span>
+漏	leaking/leak<span class='kall'>ろう</span>
+漕	rowed/rowing-
+演	performance<span class='kall'>えん</span>
+漁	catch a fish/fishing-ぎょ
+漆	lacquer<span class='kall'>うるし</span>
+銘	inscription<span class='kall'>めい</span>
+銀	silver<span class='kall'>ぎん</span>
+銅	copper<span class='kall'>どう</span>
+銭	coin-せん
+酸	acid<span class='kall'>さん</span>
+酵	fermentation<span class='kall'>こう</span>
+酷	harsh/cruel<span class='kall'>こく</span>
+慢	boast/ridicule<span class='kall'>まん</span>
+漫	manga/loose<span class='kall'>まん</span>
+髪	hair on my head/hair of the head-かみ
+聞	hear-ぶん
+閥	faction/clique<span class='kall'>ばつ</span>
+関	related/connection-かん
+閣	government cabinet/tower<span class='kall'>かく</span>
+静	quiet<span class='kdom'>せい</span>
+精	refined<span class='kdom'>せい</span>
+漬	pickled/pickling<span class='kall'>つ</span>
+奪	take away/rob<span class='kall'>だつ</span>
+雑	miscellaneou/miscellaneous-ざつ
+維	fiber<span class='kall'>い</span>
+雌	female<span class='kall'>し</span>
+徳	moral/benevolence-とく
+態	attitude<span class='kall'>たい</span>
+熊	bear-
+遜	humble/<span class='kall'>そん</span>
+腿	thigh/<span class='kall'>たい</span>
+膜	membrane<span class='kall'>まく</span>
+罰	penalty<span class='kall'>ばつ</span>
+誓	vow<span class='kall'>せい</span>
+獄	prison<span class='kall'>ごく</span>
+際	moment/occasion-ぎわ
+察	observe/guess<span class='kall'>さつ</span>
+隠	hide/conceal-いん
+駆	drive-く
+駄	useles/burdensome<span class='kall'>だ</span>
+駅	train station/station<span class='kall'>えき</span>
+概	summary/outline<span class='kall'>がい</span>
+滴	drop of water/drip-てき
+摘	pinch<span class='kall'>てき</span>
+認	acknowledge<span class='kall'>にん</span>
+誘	temptation/entice<span class='kall'>ゆう</span>
+語	language/word<span class='kdom'>ご</span>
+誌	document<span class='kall'>し</span>
+説	theory/explanation<span class='kdom'>せつ</span>
+読	read-どく
+誤	error/mistake<span class='kall'>ご</span>
+練	practice<span class='kall'>れん</span>
+綴	spell/-
+緑	green-りょく
+緒	with/thong-しょ
+総	total/general<span class='kall'>そう</span>
+綿	cotton<span class='kall'>めん</span>
+綱	rope/hawser-こう
+網	net/netting-あみ
+綻	coming apart/<span class='kall'>たん</span>
+聡	wise/<span class='kall'>そう</span>
+歓	delighted/delight<span class='kall'>かん</span>
+舞	dance performance/dance-ぶ
+確	accurate/assurance<span class='kall'>かく</span>
+権	right/authority<span class='kdom'>けん</span>
+監	supervision/oversee<span class='kall'>かん</span>
+盤	flat board/tray<span class='kall'>ばん</span>
+蔵	storage/storehouse<span class='kdom'>ぞう</span>
+舗	pavement/shop-ほ
+澄	serene/lucidity-
+皺	wrinkled/-
+撫	stroking/<span class='kall'>ぶ</span>
+墜	crash<span class='kall'>つい</span>
+撲	sumo/slap<span class='kall'>ぼく</span>
+魅	attractive/fascination<span class='kall'>み</span>
+頬	cheek/-
+踏	step on/step-とう
+憂	sorrow/melancholy-ゆう
+履	footwear/footgear-り
+膝	knee/<span class='kall'>ひざ</span>
+嘲	ridicule/<span class='kall'>ちょう</span>
+潮	tide-しお
+糊	glue/-
+審	examination/hearing<span class='kall'>しん</span>
+寮	dormitory<span class='kall'>りょう</span>
+窮	cornered/hard up<span class='kall'>きゅう</span>
+儚	fleeting/-
+養	foster<span class='kall'>よう</span>
+僻	remote/-
+儀	manner/ceremony<span class='kall'>ぎ</span>
+趣	taste/gist-しゅ
+暴	violent/outburst<span class='kdom'>ぼう</span>
+撮	photograph/snapshot<span class='kall'>さつ</span>
+褒	compliment/praise-
+敵	enemy<span class='kall'>てき</span>
+敷	laying/spread-しき
+劇	drama<span class='kall'>げき</span>
+慮	consideration/prudence<span class='kall'>りょ</span>
+戯	game/frolic<span class='kall'>ぎ</span>
+膚	skin surface/skin<span class='kall'>ふ</span>
+嬉	happy/<span class='kall'>き</span>
+弊	abuse<span class='kall'>へい</span>
+幣	currency/cash<span class='kall'>へい</span>
+餅	mochi/-
+餌	bait/-
+餓	starvation/starve<span class='kall'>が</span>
+蝿	houseflie/-
+蝶	butterflie/butterfly<span class='kall'>ちょう</span>
+縄	straw rope-じょう
+噂	rumor/-
+嘱	commissioned/entrust<span class='kall'>しょく</span>
+噛	bite/-
+編	knit/compilation-へん
+緩	loose/slacken<span class='kall'>かん</span>
+縁	edge/affinity<span class='kdom'>えん</span>
+線	line<span class='kall'>せん</span>
+締	tighten<span class='kall'>てい</span>
+緊	tension/tense<span class='kall'>きん</span>
+潔	cleanlines/undefiled<span class='kall'>けつ</span>
+撤	withdrawing/remove-
+徹	thoroughly/penetrate<span class='kall'>てつ</span>
+撒	sprinkling/-
+衝	collision/collide<span class='kall'>しょう</span>
+霊	phantom/spirits<span class='kdom'>れい</span>
+器	container/utensil<span class='kdom'>き</span>
+震	quake<span class='kall'>しん</span>
+憧	look up to/<span class='kall'>どう</span>
+導	guide/guidance<span class='kall'>どう</span>
+選	choose/elect<span class='kall'>せん</span>
+影	silhouette/shadow-えい
+稽	pondering/<span class='kall'>けい</span>
+稼	earn/earnings<span class='kall'>か</span>
+稿	draft<span class='kall'>こう</span>
+遺	inheritance/bequeath<span class='kdom'>い</span>
+賞	prize<span class='kall'>しょう</span>
+潰	crush/<span class='kall'>かい</span>
+勲	medal/meritorious deed<span class='kall'>くん</span>
+熟	ripe/mellow<span class='kall'>じゅく</span>
+黙	silence<span class='kall'>もく</span>
+熱	heat<span class='kall'>ねつ</span>
+慰	console/consolation<span class='kall'>い</span>
+億	hundred million<span class='kall'>おく</span>
+穂	ear of a plant<span class='kall'>ほ</span>
+暫	a little while/temporarily<span class='kall'>ざん</span>
+輝	radiant/radiance-
+輩	comrade-はい
+輪	wheel-りん
+摩	friction/chafe<span class='kall'>ま</span>
+撃	attack/beat<span class='kall'>げき</span>
+鋭	sharpnes/pointed<span class='kall'>えい</span>
+標	sign/signpost<span class='kall'>ひょう</span>
+横	horizontal/sideways-よこ
+槽	tub/vat<span class='kall'>そう</span>
+賠	compensation<span class='kall'>ばい</span>
+閲	browse/review<span class='kall'>えつ</span>
+賜	gift/grant<span class='kall'>し</span>
+潤	moist/wet<span class='kall'>じゅん</span>
+賛	approve<span class='kall'>さん</span>
+質	quality/substance<span class='kdom'>しつ</span>
+潜	diving/submerge<span class='kall'>せん</span>
+罵	insult/<span class='kall'>ば</span>
+駒	board game piece/pony<span class='kall'>こま</span>
+駐	parking<span class='kall'>ちゅう</span>
+範	scope/pattern<span class='kall'>はん</span>
+箸	chopstick/<span class='kall'>はし</span>
+箱	boxe/box-はこ
+憤	furiou/aroused<span class='kall'>ふん</span>
+諸	variou/various<span class='kall'>しょ</span>
+噴	erupted/erupt<span class='kall'>ふん</span>
+課	assignment/chapter<span class='kall'>か</span>
+調	investigate/tune<span class='kall'>ちょう</span>
+談	conversation/discuss<span class='kall'>だん</span>
+請	claim/solicit-せい
+誕	birth/nativity<span class='kall'>たん</span>
+論	opinion/argument<span class='kall'>ろん</span>
+誰	who/-
+諾	consent<span class='kall'>だく</span>
+誼	friendship/-
+賭	gamble<span class='kall'>と</span>
+賢	clever/intelligent<span class='kall'>けん</span>
+獣	beast/animal-じゅう
+薦	recommendation/recommend<span class='kall'>せん</span>
+磨	polish/grind-
+糖	sugar<span class='kall'>とう</span>
+輸	transportation/transport<span class='kall'>ゆ</span>
+麺	noodle/<span class='kall'>めん</span>
+壇	platform/podium<span class='kdom'>だん</span>
+醒	awake/<span class='kall'>せい</span>
+曇	cloudy/cloudy weather-
+積	piled up/volume<span class='kdom'>せき</span>
+縦	vertical-じゅう
+髭	beard/-
+縛	bind/truss<span class='kall'>ばく</span>
+縫	sew<span class='kall'>ほう</span>
+緯	latitude/horizontal<span class='kall'>い</span>
+繁	prosperity/luxuriant<span class='kall'>はん</span>
+還	go back/send back<span class='kall'>かん</span>
+避	avoid/evade<span class='kall'>ひ</span>
+壁	wall-へき
+獲	acquired/seize-かく
+擁	protection/hug<span class='kall'>よう</span>
+奮	excited/stirred up<span class='kall'>ふん</span>
+操	operate/maneuver<span class='kall'>そう</span>
+薬	drug/medicine-やく
+築	construction/fabricate<span class='kall'>ちく</span>
+衛	guard/defense<span class='kall'>えい</span>
+衡	balance/equilibrium<span class='kall'>こう</span>
+燃	burning/burn<span class='kall'>ねん</span>
+興	interest/entertain-こう
+膨	expansion/swell<span class='kall'>ぼう</span>
+龍	old dragon/-
+骸	skeleton/<span class='kall'>がい</span>
+橋	bridge-きょう
+樹	forest tree/timber trees<span class='kall'>じゅ</span>
+機	device/mechanism<span class='kall'>き</span>
+穏	calm-おん
+憶	memory/recollection<span class='kall'>おく</span>
+憲	constitution<span class='kall'>けん</span>
+整	adjust/organize<span class='kall'>せい</span>
+憩	take a break/recess<span class='kall'>けい</span>
+凝	stiff/congeal<span class='kall'>ぎょう</span>
+親	parent-しん
+隣	neighbor/neighboring<span class='kall'>りん</span>
+頼	rely/trust<span class='kall'>らい</span>
+頭	head-とう
+激	fierce2/violent<span class='kall'>げき</span>
+濃	concentrated<span class='kall'>のう</span>
+薄	diluted/dilute-はく
+融	financing/dissolve<span class='kall'>ゆう</span>
+館	large building/bldg.<span class='kall'>かん</span>
+濁	muddy/voiced<span class='kall'>だく</span>
+錬	strengthen/tempering-
+錆	rust/-
+錠	lock<span class='kall'>じょう</span>
+録	recorded/record<span class='kall'>ろく</span>
+錯	mistake/confused<span class='kall'>さく</span>
+鋼	steel-こう
+嬢	young lady/lass<span class='kall'>じょう</span>
+壊	break/demolition<span class='kall'>かい</span>
+懐	pocket-かい
+謀	plot/conspire<span class='kdom'>ぼう</span>
+諭	persuade/rebuke<span class='kall'>ゆ</span>
+諦	give up/-
+謡	song/noh chanting<span class='kall'>よう</span>
+濯	rinse/laundry<span class='kall'>たく</span>
+環	environment/ring<span class='kall'>かん</span>
+燥	dryer/parch<span class='kall'>そう</span>
+轄	control<span class='kall'>かつ</span>
+繋	link/-
+儲	profitable/-
+贅	luxury/-
+曜	day of the week/weekday<span class='kall'>よう</span>
+難	difficult<span class='kall'>なん</span>
+観	view/outlook<span class='kall'>かん</span>
+鎮	suppres/tranquillize<span class='kall'>ちん</span>
+鎌	sickle-
+鎖	chain-さ
+擬	simulation/mimic<span class='kall'>ぎ</span>
+擦	rub together/grate<span class='kall'>さつ</span>
+鮮	fresh<span class='kall'>せん</span>
+闇	darknes/<span class='kall'>やみ</span>
+癌	cancer/<span class='kall'>がん</span>
+療	treatment/heal<span class='kall'>りょう</span>
+聴	listening/listen<span class='kall'>ちょう</span>
+臆	coward/<span class='kall'>おく</span>
+懇	sincerely/sociable<span class='kall'>こん</span>
+鍛	forging/forge<span class='kall'>たん</span>
+鍵	key/-
+鍋	pot/-
+醜	ugly<span class='kall'>しゅう</span>
+講	lecture<span class='kall'>こう</span>
+購	purchasing/subscription<span class='kall'>こう</span>
+醤	soy sauce/-
+繊	delicate/slender<span class='kall'>せん</span>
+績	result/exploits<span class='kall'>せき</span>
+縮	shrinking/shrink<span class='kall'>しゅく</span>
+霜	frost<span class='kall'>しも</span>
+霞	mist/<span class='kall'>かすみ</span>
+濡	wet/-
+償	reparation<span class='kall'>しょう</span>
+覧	watching/perusal<span class='kall'>らん</span>
+頻	frequently/repeatedly<span class='kall'>ひん</span>
+齢	age<span class='kall'>れい</span>
+曖	ambiguou/-
+犠	sacrifice<span class='kall'>ぎ</span>
+優	kind/tenderness<span class='kall'>ゆう</span>
+謝	thank/apologize<span class='kall'>しゃ</span>
+謙	modest/self effacing<span class='kall'>けん</span>
+謹	paying attention/discreet<span class='kall'>きん</span>
+謎	puzzle/-
+厳	strict/stern<span class='kdom'>げん</span>
+糞	excrement/<span class='kall'>ふん</span>
+翼	wing-よく
+瞳	pupil<span class='kall'>どう</span>
+職	job/post<span class='kall'>しょく</span>
+織	weaving/weave-おり
+繕	mending/darning<span class='kall'>ぜん</span>
+礎	basic/cornerstone-いしずえ
+襟	collar<span class='kall'>えり</span>
+襖	sliding door/-
+鯉	koi fish/carp-
+贈	present/presents-ぞう
+糧	food/provisions-かて
+騎	horseman/equestrian<span class='kall'>き</span>
+騒	makes noise/boisterous<span class='kall'>そう</span>
+験	experience/verification-けん
+癒	healed/healing<span class='kall'>ゆ</span>
+懲	disciplinary/penal<span class='kall'>ちょう</span>
+覆	covered with/capsize-ふく
+臨	confront/look to<span class='kall'>りん</span>
+穫	harvest<span class='kall'>かく</span>
+瞬	instanteou/wink<span class='kall'>しゅん</span>
+鞭	whip/<span class='kall'>べん</span>
+簡	simplified/simplicity<span class='kall'>かん</span>
+闘	fight<span class='kall'>とう</span>
+翻	flipped/flip<span class='kall'>ほん</span>
+類	sort<span class='kall'>るい</span>
+題	subject/topic<span class='kall'>だい</span>
+顔	face-がお
+顕	become apparent/appear<span class='kall'>けん</span>
+癖	habit/mannerism-へき
+額	amount/forehead<span class='kdom'>がく</span>
+韓	korea<span class='kall'>かん</span>
+鏡	mirror-
+爆	explode/bomb<span class='kall'>ばく</span>
+願	please/petition<span class='kdom'>がん</span>
+繰	repeat/winding-
+蹴	kick/<span class='kall'>しゅう</span>
+蟻	ant/-
+覇	dominate/hegemony<span class='kall'>は</span>
+麗	pretty/lovely<span class='kall'>れい</span>
+霧	fog<span class='kall'>きり</span>
+識	consciou/discriminating<span class='kall'>しき</span>
+警	police/admonish<span class='kall'>けい</span>
+臓	organ/entrails<span class='kall'>ぞう</span>
+離	separation/detach<span class='kall'>り</span>
+羅	arrange/gauze<span class='kall'>ら</span>
+艶	shiny/glossy<span class='kall'>つや</span>
+瀕	verge of/-
+瀬	river shallow/rapids<span class='kall'>せ</span>
+簿	registry/register<span class='kall'>ぼ</span>
+騙	tricked/-
+蘇	revive/<span class='kall'>そ</span>
+鯨	whale<span class='kall'>げい</span>
+鶏	chicken-けい
+懸	hanging/suspend-けん
+鐘	bell-かね
+騰	rise/inflation<span class='kall'>とう</span>
+欄	column<span class='kall'>らん</span>
+競	competing/vie-きょう
+籍	publication/enroll<span class='kall'>せき</span>
+響	echoe/echo<span class='kall'>きょう</span>
+議	conference/deliberation<span class='kall'>ぎ</span>
+譲	transfer ownership/defer<span class='kall'>じょう</span>
+護	protector/safeguard<span class='kall'>ご</span>
+轟	roar/<span class='kall'>ごう</span>
+魔	magic/witch<span class='kall'>ま</span>
+艦	warship<span class='kall'>かん</span>
+顧	look back<span class='kall'>こ</span>
+露	dew-ろ
+躍	leap<span class='kall'>やく</span>
+驚	surprise/wonder<span class='kall'>きょう</span>
+鑑	appraise/specimen<span class='kall'>かん</span>
+鶴	crane<span class='kall'>つる</span>
+襲	make an attack/attack<span class='kall'>しゅう</span>
+沖	open sea<span class='kall'>おき</span>
+硫	sulphur/sulfur<span class='kall'>りゅう</span>
+礁	reef<span class='kall'>しょう</span>
+俊	talented/sagacious-
+伯	uncle/chief<span class='kall'>はく</span>
+啓	enlightenment/disclose<span class='kall'>けい</span>
+或	or/-
+享	acceptance/receive<span class='kall'>きょう</span>
+祷	prayer/<span class='kall'>とう</span>
+禍	misfortune/calamity-
+曹	sergeant/cadet<span class='kall'>そう</span>
+瞑	close your eye/<span class='kall'>めい</span>
+瞭	clarity/<span class='kall'>りょう</span>
+羞	ashamed/<span class='kall'>しゅう</span>
+甥	nephew/<span class='kall'>おい</span>
+瘤	lump/-
+摯	seriou/-
+俵	straw bag/bag<span class='kall'>ひょう</span>
+壌	ground soil/lot<span class='kall'>じょう</span>
+蓋	lid/-がい
+藻	seaweed-そう
+菊	chrysanthemum<span class='kall'>きく</span>
+掟	decree/<span class='kall'>おきて</span>
+楚	neat/<span class='kall'>そ</span>
+淀	stagnant/-
+抉	scoop out/-
+扮	disguise/-
+拶	salutation/<span class='kall'>さつ</span>
+汰	sift/<span class='kall'>た</span>
+沙	fine sand/<span class='kall'>さ</span>
+炒	fried/-
+鬱	depressed/<span class='kall'>うつ</span>
+遷	transition<span class='kall'>せん</span>
+粥	rice porridge/<span class='kall'>かゆ</span>
+墨	black ink-すみ
+牽	drag/-
+尉	military officer<span class='kall'>い</span>
+碁	go<span class='kall'>ご</span>
+猾	sly/<span class='kall'>かつ</span>
+狡	cunning/<span class='kall'>こう</span>
+狸	racoon/-
+獅	lion/<span class='kall'>し</span>
+徘	roam/<span class='kall'>はい</span>
+徊	wander around/<span class='kall'>かい</span>
+凧	kite/<span class='kall'>たこ</span>
+此	thi/-
+麓	foot of the mountain/<span class='kall'>ろく</span>
+雛	chick/-
+於	at/-
+筈	supposed/-
+泰	peaceful<span class='kall'>たい</span>
+薪	firewood<span class='kall'>たきぎ</span>
+秤	scale/-
+宰	oversee/superintend<span class='kall'>さい</span>
+款	subsection/goodwill<span class='kall'>かん</span>
+淑	graceful-
+叔	aunt/uncle-
+隷	slave<span class='kall'>れい</span>
+愕	astonished/<span class='kall'>がく</span>
+酎	shochu/<span class='kall'>ちゅう</span>
+顎	chin/-
+睦	friendly relation/intimate<span class='kall'>ぼく</span>
+贄	sacrifice offering/-
+壷	jar/-
+淵	deep water/-えん
+浦	seaside/bay<span class='kall'>うら</span>
+泌	secretion/ooze<span class='kall'>ぴつ</span>
+涎	drool/-
+慶	joyou/jubilation<span class='kall'>けい</span>
+唐	china/t'ang<span class='kall'>とう</span>
+俯	looked down/-
+隻	number of ship/vessels<span class='kall'>せき</span>
+斎	private librarie/purification<span class='kall'>さい</span>
+巫	shrine maiden/<span class='kall'>ふ</span>
+傲	arrogant/<span class='kall'>ごう</span>
+倣	mimic/emulate<span class='kall'>ほう</span>
+冴	clear headed/-
+牧	raises livestock/breed<span class='kdom'>ぼく</span>
+遡	trace back/-
+胡	questionable/<span class='kall'>こ</span>
+萌	began to sprout/<span class='kall'>ほう</span>
+暢	fluent/<span class='kall'>ちょう</span>
+帥	commander-すい
+幌	car covering/canopy-
+矮	dwarf sized/-
+嬌	charm/attractive-
+矯	correction/rectify<span class='kall'>きょう</span>
+楼	tall building/watchtower<span class='kall'>ろう</span>
+辿	follow/-
+迭	alternative/alternate<span class='kall'>てつ</span>
+迂	detour/-
+辻	crossroad/crossing-
+韻	rhyme<span class='kall'>いん</span>
+剖	dissecting/divide<span class='kall'>ぼう</span>
+拉	abducted/<span class='kall'>ら</span>
+笠	bamboo hat-
+緻	closely/<span class='kall'>ち</span>
+縺	tangled/-
+縞	striped/-
+糾	complicated/twist<span class='kall'>きゅう</span>
+醸	brew alcohol/brew<span class='kall'>じょう</span>
+酪	dairy/dairy products<span class='kall'>らく</span>
+晒	expose/-
+洒	stylish tone/-
+牢	jail/<span class='kall'>ろう</span>
+竿	rod/-
+芋	potatoe/potato<span class='kall'>いも</span>
+鋳	casting-い
+鉤	hook/-
+鋏	scissor/-
+鎧	full armor/-
+箔	foil/<span class='kall'>ぱく</span>
+箋	label/<span class='kall'>せん</span>
+篠	bamboo gras/-
+籠	basket/<span class='kall'>ろう</span>
+煽	incited/-
+灼	red hot/<span class='kall'>しゃく</span>
+炸	explosive/-
+丹	earnest/cinnabar<span class='kall'>たん</span>
+鞍	saddle/-
+帆	sail-ほ
+彷	wander aimlessly/<span class='kall'>ほう</span>
+紡	spinning<span class='kall'>ぼう</span>
+劫	extended time period/<span class='kall'>ごう</span>
+勃	sudden/-
+崎	peninsula/promontory<span class='kall'>さき</span>
+埼	long peninsula/cape-
+綺	lovely/-
+阪	gradient/heights-
+岡	small hill/mount-
+阜	large hill/-
+媛	beautiful women/beautiful woman-
+畿	capital region/-
+奈	nara-
+蛮	barbaric/barbarian<span class='kall'>ばん</span>
+蛙	frog/<span class='kall'>かえる</span>
+蝉	cicada/-
+螺	spiral/-
+賓	visitor/v.i.p.<span class='kall'>ひん</span>
+窒	obstruction/plug up-
+寡	small amount of/widow<span class='kall'>か</span>
+践	implemented/tread<span class='kall'>せん</span>
+蹄	hoof/-
+踪	foot print/<span class='kall'>そう</span>
+鮭	salmon/<span class='kall'>さけ</span>
+鮨	sushi/-
+鮫	shark/-
+餃	gyoza/-
+曙	sunrise/<span class='kall'>あけぼの</span>
+孝	respect your parent/filial piety<span class='kall'>こう</span>
+巷	in public/-
+逐	sequential/pursue<span class='kall'>ちく</span>
+塚	mound/hillock<span class='kall'>つか</span>
+遽	abrupt/<span class='kall'>きょ</span>
+曰	it is said/sayeth-
+昂	excitement/<span class='kall'>こう</span>
+臼	rice pounding container/<span class='kall'>うす</span>
+憾	feel regret/remorse<span class='kall'>かん</span>
+惣	everything/-
+惹	attracted/-
+愁	distres/distress<span class='kall'>しゅう</span>
+慈	compassion/mercy<span class='kall'>じ</span>
+憑	possessed/<span class='kall'>ひょう</span>
+恣	as you please/<span class='kall'>し</span>
+棋	shogi/chess piece<span class='kall'>ぎ</span>
+槍	wooden spear/-
+栃	horse chestnut-
+棲	inhabit/<span class='kall'>せい</span>
+樽	barrel/-
+槌	hammer/-
+梱	pack together/-
+櫛	comb/-
+楓	maple tree/-
+柵	wooden fence/-
+杭	stake/-
+桟	pier/scaffold<span class='kall'>さん</span>
+柳	willow tree/willow<span class='kall'>やなぎ</span>
+柏	oak tree/oak<span class='kall'>かしわ</span>
+柿	persimmon/<span class='kall'>かき</span>
+烏	crow-
+鴎	seagull/<span class='kall'>かもめ</span>
+潟	lagoon-
+鷲	eagle/-
+鷹	hawk/-おう
+鵜	swallow whole/-
+蔦	ivy/vine<span class='kall'>つた</span>
+奸	corrupt/-
+婿	son in law/bridegroom<span class='kall'>むこ</span>
+妃	empres/queen<span class='kall'>ひ</span>
+汝	thou/<span class='kall'>なんじ</span>
+姑	mother in law/-こ
+姪	niece/<span class='kall'>めい</span>
+姜	ginger/-
+后	queen/empress-ごう
+勿	must not/not-
+斥	repel/reject<span class='kall'>せき</span>
+但	however-
+渾	all of/<span class='kall'>こん</span>
+軋	creaking/-
+坦	smooth/<span class='kall'>たん</span>
+藤	wisteria<span class='kall'>ふじ</span>
+脛	shin/-
+腑	internal organ/<span class='kall'>ふ</span>
+膳	low dining table/<span class='kall'>ぜん</span>
+膿	pu/-うみ
+腱	tendon/<span class='kall'>けん</span>
+嚇	intimidate/upbraid<span class='kall'>かく</span>
+囁	whispering/-
+嘔	vomit/<span class='kall'>おう</span>
+噌	miso/-
+爺	grandfather/<span class='kall'>じい</span>
+釜	cauldron/-
+斧	axe/-
+篤	wholehearted/fervent<span class='kall'>とく</span>
+馳	run around/<span class='kall'>ち</span>
+匙	spoon/<span class='kall'>さじ</span>
+仄	faint/-
+凹	concave<span class='kall'>おう</span>
+凸	convex<span class='kall'>とつ</span>
+訛	accent/-
+諺	proverb/-
+訝	suspect/<span class='kall'>げん</span>
+訣	secret method/<span class='kall'>けつ</span>
+譜	sheet music/musical score<span class='kall'>ふ</span>
+謳	sing together/-
+諜	spy/<span class='kall'>ちょう</span>
+那	mister/-
+陛	your majesty/highness<span class='kall'>へい</span>
+阿	idiot/africa<span class='kall'>あ</span>
+兎	rabbit/-
+兜	helmet/-
+禿	bald/-
+栗	chestnut<span class='kall'>くり</span>
+朱	vermillion red/vermilion<span class='kall'>しゅ</span>
+粟	millet/<span class='kall'>あわ</span>
+云	say out loud/-
+仁	empathy/humanity-じん
+孔	small hole/cavity<span class='kall'>こう</span>
+旺	prosperou/<span class='kall'>おう</span>
+閏	leap year/<span class='kall'>うるう</span>
+逞	athletic/-
+只	just/only<span class='kall'>ただ</span>
+苔	mos/-
+侶	companion/<span class='kall'>りょ</span>
+頷	nodded/-
+頒	distribution/partition<span class='kall'>はん</span>
+琴	japanese koto/harp<span class='kall'>こと</span>
+咎	criticize/-
+吟	recite/versify<span class='kall'>ぎん</span>
+嗽	gargling/-
+乃	/from-
+匕	/spoon-
+之	/of-
+勺	/ladle-
+巳	/sign of the snake<span class='kall'>み</span>
+廿	/twenty-
+匁	/monme<span class='kall'>もんめ</span>
+升	/measuring box<span class='kall'>しょう</span>
+斗	/big dipper<span class='kall'>と</span>
+斤	/ax<span class='kall'>きん</span>
+屯	/barracks<span class='kall'>とん</span>
+允	/license-
+且	/moreover-
+丙	/third class<span class='kall'>へい</span>
+包	/wrap<span class='kall'>ほう</span>
+尼	/nun-あま
+弘	/vast-
+甘	/sweet-かん
+丑	/sign of the cow<span class='kall'>うし</span>
+卯	/sign of the hare<span class='kall'>う</span>
+旭	/rising sun-
+亘	/span-
+亥	/sign of the hog<span class='kall'>い</span>
+瓜	/melon-
+伊	/italy-
+圭	/squared jewel-
+吏	/officer<span class='kall'>り</span>
+汐	/eventide-
+弐	/ii (two)-
+亜	/asia<span class='kall'>あ</span>
+呉	/give<span class='kall'>ご</span>
+吾	/i<span class='kall'>ご</span>
+坑	/pit<span class='kall'>こう</span>
+壱	/i (one)-
+扶	/aid<span class='kall'>ふ</span>
+抄	/extract<span class='kall'>しょう</span>
+杏	/apricot-
+辰	/sign of the dragon-しん
+酉	/sign of the bird-
+佳	/excellent-
+函	/bin<span class='kall'>かん</span>
+劾	/censure<span class='kall'>がい</span>
+坪	/two mat area<span class='kall'>つぼ</span>
+岬	/headland<span class='kall'>みさき</span>
+岳	/point-がく
+昌	/prosperous-
+沫	/splash-
+苑	/garden<span class='kall'>えん</span>
+朋	/companion-
+附	/affixed-
+侯	/marquis<span class='kall'>こう</span>
+勅	/imperial order<span class='kall'>ちょく</span>
+厘	/rin<span class='kall'>りん</span>
+彦	/lad<span class='kall'>ひこ</span>
+衷	/inmost<span class='kall'>ちゅう</span>
+倹	/frugal<span class='kall'>けん</span>
+准	/quasi <span class='kall'>じゅん</span>
+朕	/majestic plural<span class='kall'>ちん</span>
+桑	/mulberry<span class='kall'>くわ</span>
+桂	/japanese judas tree-
+桐	/paulownia<span class='kall'>きり</span>
+殉	/martyrdom<span class='kall'>じゅん</span>
+畔	/paddy ridge<span class='kall'>はん</span>
+畝	/furrow<span class='kall'>うね</span>
+翁	/venerable old man<span class='kall'>おきな</span>
+荻	/reed-
+蚕	/silkworm-かいこ
+逓	/parcel post-
+郡	/county<span class='kall'>ぐん</span>
+曽	/formerly-
+寅	/sign of the tiger-
+梢	/treetops-
+梓	/catalpa-
+庸	/comfortable<span class='kall'>よう</span>
+渚	/strand<span class='kall'>なぎさ</span>
+笹	/bamboo grass-
+菱	/diamond<span class='kall'>ひし</span>
+郭	/enclosure<span class='kall'>かく</span>
+陵	/mausoleum<span class='kall'>りょう</span>
+堕	/degenerate<span class='kall'>だ</span>
+痘	/pox-
+硝	/nitrate-
+脹	/dilate-
+詔	/imperial edict<span class='kall'>みことのり</span>
+嗣	/heir-
+塑	/model-
+搾	/squeeze<span class='kall'>さく</span>
+椿	/camellia<span class='kall'>つばき</span>
+楠	/camphor tree-
+艇	/rowboat<span class='kall'>てい</span>
+蒲	/bullrush-
+虞	/uneasiness-
+褐	/brown-
+嫡	/legitimate wife<span class='kall'>ちゃく</span>
+裳	/skirt-
+漸	/steadily<span class='kall'>ぜん</span>
+銑	/pig iron-
+墳	/tomb<span class='kall'>ふん</span>
+窯	/kiln<span class='kall'>かま</span>
+罷	/quit<span class='kall'>ひ</span>
+謁	/audience-
+賦	/levy-ふ
+遵	/abide by-
+儒	/confucian<span class='kall'>じゅ</span>
+墾	/groundbreaking<span class='kall'>こん</span>
+薫	/fragrant-
+諮	/consult with<span class='kall'>し</span>
+錘	/spindle-
+錦	/brocade<span class='kall'>にしき</span>
+爵	/baron<span class='kall'>しゃく</span>
+謄	/facsimilie<span class='kall'>とう</span>
+濫	/overflow<span class='kall'>らん</span>
+繭	/cocoon-
+藩	/clan<span class='kall'>はん</span>
+髄	/marrow<span class='kall'>ずい</span>
