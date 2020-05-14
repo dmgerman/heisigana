@@ -1,0 +1,2415 @@
+乙	latter/fish guts-おつ
+一	one-いち
+人	person-じん
+入	+enter-にゅう
+八	!eight-はち
+七	!seven-なな
+十	!ten-じゅう
+丁	street-ちょう
+力	power-りょく
+九	!nine-きゅう
+刀	!katana/sword-とう
+了	!finish/complete-りょう
+二	+two-に
+又	_again/or again-None
+亡	!deceased-ぼう
+士	+gentleman-し
+工	+craft-こう
+土	+soil-ど
+子	child-し
+才	geniu/genius-さい
+寸	!measurement-すん
+女	woman-じょ
+乞	!beg-こ
+凡	!ordinary/mediocre-ぼん
+上	+up/above-じょう
+下	down/below-か
+山	mountain-やま
+口	mouth-こう
+小	small/little-こ
+川	river/stream-かわ
+干	dry-かん
+千	thousand-せん
+巾	!towel/-きん
+夕	+evening-ゆう
+及	!lead up to/reach out-きゅう
+己	self-こ
+久	long time-きゅう
+与	!give/bestow-よ
+弓	!bow-ゆみ
+丈	length-じょう
+大	big/large-だい
+三	+three-さん
+万	ten thousand-ばん
+丸	round-まる
+刃	!blade-は
+午	!noon-ご
+牛	cow-うし
+王	+king-おう
+区	!district/ward-く
+凶	!evil/villain-きょう
+匹	!equal-ひき
+太	+fat/plump-たい
+夫	husband-ふ
+犬	dog-いぬ
+天	!heaven/heavens-てん
+日	sun/day-にち
+月	moon/month-げつ
+円	!yen/circle-えん
+比	+compare-ひ
+匂	_smell/-None
+仇	_foe/-None
+化	+change-か
+水	water-すい
+木	tree-き
+不	!negative-ふ
+尺	!foot length/shaku-しゃく
+中	+in-ちゅう
+戸	door-と
+方	direction-ほう
+切	cut-せつ
+分	+part-ぶん
+幻	illusion/phantasm-げん
+仏	+buddha-ぶつ
+公	+public-こう
+支	!support/branch-し
+反	+oppose/anti -はん
+友	friends/friend-ゆう
+文	+sentence-ぶん
+父	father-ふ
+厄	!unlucky-やく
+収	!income-しゅう
+五	!five-ご
+井	water well/well-い
+互	!together/mutually-ご
+内	+inside-ない
+欠	!lack-けつ
+火	fire-か
+心	heart-しん
+今	+now-こん
+乏	!poverty/destitution-ぼう
+双	pair-そう
+牙	fang/tusk-きば
+介	!jammed in-かい
+片	one side/one sided-かた
+元	origin/beginning-げん
+六	!six-ろく
+氏	+surname/family name-し
+冗	!superfluou/superfluous-じょう
+止	!stop-し
+予	!beforehand-よ
+弔	!condolence/condolences-ちょう
+刈	_trim/reap-None
+毛	hair/fur-もう
+手	hand-て
+引	pull-いん
+少	!few-しょう
+爪	!nail/claw-つめ
+叩	_bash/-None
+右	right-みぎ
+古	+old-こ
+石	rock/stone-せき
+兄	older brother/elder brother-けい
+召	!seduce-しょう
+叶	_fulfill/-None
+占	fortune telling-せん
+叱	_scolded/-None
+加	!adding/add-か
+台	pedestal-だい
+申	statement/speaketh-しん
+由	reason/wherefore-ゆう
+甲	armor-こう
+田	ricefield/rice field-でん
+払	_pay-None
+広	broad/wide-こう
+弁	!speech/valve-べん
+用	!utilize-よう
+皿	plate/dish-ざら
+冊	book volume/tome-さつ
+旦	!dawn/nightbreak-たん
+旧	!old time/olden times-きゅう
+白	white-はく
+目	eye-め
+主	master/lord-しゅ
+生	life-せい
+玉	ball/jewel-ぎょく
+未	!not yet-み
+末	end of/extremity-まつ
+半	!half-はん
+失	!lose-しつ
+矢	!dart-や
+本	+book-ほん
+犯	+crime-はん
+代	+subtitute/substitute-だい
+汁	!soup-じゅう
+刊	!publish-かん
+庁	!government office-ちょう
+令	!order/orders-れい
+巨	!gigantic-きょ
+央	!center-おう
+史	!history-し
+礼	!salute/salutation-れい
+付	attach/adhere-ふ
+札	tag-さつ
+丼	_bowl/-None
+他	!another/other-た
+世	generation-せ
+瓦	tile-かわら
+丘	hill-きゅう
+北	north-ほく
+巧	!skillfully/adroit-こう
+写	!copy-しゃ
+号	!title/nickname-ごう
+必	!certain/invariably-ひつ
+氷	ice/icicle-ひょう
+永	!eternity-えい
+四	four-し
+母	mother/mama-ぼ
+囚	!captured-しゅう
+立	stand up-りつ
+平	+flat/even-へい
+正	correct-せい
+幼	+childhood/infancy-よう
+功	+achievement-こう
+玄	!profound/mysterious-げん
+市	!city/market-し
+左	left-ひだり
+布	cloth/linen-ふ
+司	+director-し
+可	!can-か
+句	!phrase-く
+民	!people-みん
+尻	_buttock/-None
+込	_crowded-None
+辺	vicinity/environs-べ
+仙	!hermit-せん
+打	!strike-だ
+矛	spear/halberd-ほこ
+圧	!pressure-あつ
+仕	+serving/attend-し
+去	+gone-きょ
+処	!dispose-しょ
+奴	guy-ど
+皮	leather/pelt-ひ
+以	!by means of-い
+穴	!hole-あな
+出	exit-しゅつ
+外	+outside-がい
+示	show-じ
+冬	winter-とう
+汚	!dirty-お
+汗	!sweat-あせ
+江	creek-え
+年	+year-ねん
+羊	sheep-よう
+寺	temple/buddhist temple-じ
+多	!many-た
+各	!each-かく
+名	name-めい
+光	+rays of light/ray-こう
+米	rice-べい
+先	previou/before-せん
+全	!all/whole-ぜん
+企	!plan/undertake-き
+合	fit-ごう
+会	+meeting-かい
+百	hundred-ひゃく
+早	early-そう
+自	+oneself-じ
+耳	ear-みみ
+再	!second time/again-さい
+両	!both-りょう
+西	west-せい
+毎	!every-まい
+血	blood-けつ
+曲	+bend-きょく
+因	!cause-いん
+団	+group-だん
+回	+time/ times-かい
+叫	shout-きょう
+扱	_handle-None
+吸	inhale/suck-きゅう
+吐	spit-と
+忙	!busy-ぼう
+竹	bamboo-たけ
+州	!state-しゅう
+任	!responsibility-にん
+伝	+transmit-でん
+件	!matter/affair-けん
+争	!dispute/contend-そう
+危	!dangerou/dangerous-き
+色	color-いろ
+好	+like/fond-こう
+安	cheap/relax-あん
+妄	!delusion-もう
+次	next-じ
+巡	!patrol-じゅん
+迅	!swift-じん
+糸	!thread-いと
+灯	+lamp-とう
+兆	!portent-ちょう
+弛	_droop/-None
+地	ground-ち
+池	pond-いけ
+列	!queue/file-れつ
+刑	!punishment/punish-けい
+死	!death-し
+守	protect/guard-しゅ
+宇	!roof/eaves-う
+宅	!home-たく
+字	+character-じ
+肉	!meat-にく
+舟	_boat-None
+向	facing/yonder-こう
+同	+same-どう
+尖	_sharp/-None
+行	go/going-こう
+劣	!inferior/inferiority-れつ
+考	!consider-こう
+旨	deliciou/delicious-し
+老	!grow old/old man-ろう
+伐	!cut down/fell-ばつ
+休	!rest-きゅう
+壮	!grand/robust-そう
+旬	10 day/decameron-じゅん
+充	!fill/allot-じゅう
+芝	!lawn/turf-しば
+伏	face down/prostrated-ふく
+仰	look up/faceup-ぎょう
+仮	temporary/provisional-か
+匠	craftsman/artisan-しょう
+舌	!tongue-した
+吉	good luck-きつ
+如	as if/likeness-じょ
+仲	relationship/go between-なか
+虫	insect-ちゅう
+存	aware/suppose-ぞん
+有	+have/possess-ゆう
+在	!exist-ざい
+朴	!simple/crude-ぼく
+肌	!skin/texture-はだ
+朽	!decay-きゅう
+机	desk-き
+当	+hit-とう
+印	symbol/stamp-いん
+羽	feather/feathers-は
+至	!attain/climax-し
+式	!style-しき
+衣	!clothe/garment-い
+共	!jointly/together-きょう
+缶	!tin can-かん
+交	!intersect/mingle-こう
+尽	!use up/exhaust-じん
+気	+spirit-き
+成	+become/turn into-せい
+灰	ashe/ashes-はい
+妨	!disturb-ぼう
+励	!encourage-れい
+助	!help-じょ
+村	village/town-そん
+対	!versu/vis a vis-たい
+肘	_elbow/-None
+近	near-きん
+返	!return-へん
+迎	!welcome-げい
+走	!run-そう
+廷	!court/courts-てい
+足	foot/leg-あし
+良	!good-りょう
+卵	!egg-らん
+即	!instant-そく
+却	!instead-きゃく
+見	see-けん
+児	infant/newborn babe-じ
+貝	!shellfish-かい
+身	somebody-しん
+困	!trouble/quandary-こん
+囲	!surround-い
+図	diagram/map-ず
+医	!medicine/doctor-い
+更	furthermore/grow late-こう
+伸	!extend/expand-しん
+車	+car-しゃ
+戻	_put back/re -None
+尾	tail-び
+尿	!urine-にょう
+何	what-なに
+局	!bureau-きょく
+伺	_ask/pay respects-None
+材	!material/lumber-ざい
+杖	!cane/-つえ
+杉	!cedar-すぎ
+庇	!defend/-ひ
+批	!criticism-ひ
+屁	_fart/-None
+序	!preface-じょ
+応	+respond/apply-おう
+床	floor/bed-しょう
+町	town/village-まち
+里	hometown/ri-さと
+男	man-だん
+含	!include-がん
+余	!surplu/too much-よ
+冷	+cool-れい
+呑	_swallow/-None
+豆	bean/beans-とう
+呂	!articulate/spine-ろ
+臣	+government official/retainer-しん
+来	+come-らい
+串	!shish kebab skewer/shish kebab-くし
+弟	younger brother-てい
+妥	!compromise/gentle-だ
+災	!disaster-さい
+芯	!central part/-しん
+芳	!fragrant/perfumed-ほう
+花	flower-はな
+芸	!art/technique-げい
+完	!complete/perfect-かん
+究	!research-きゅう
+売	sell-ばい
+赤	red-あか
+利	!benefit/profit-り
+別	!separate-べつ
+私	!private-し
+判	judgment-はん
+坂	slope-さか
+均	!average/level-きん
+坊	!boy-ぼう
+妙	!strange/exquisite-みょう
+妖	!ghost/-よう
+妊	!pregnant/pregnancy-にん
+呆	!shocked/-ほう
+克	!overcome-こく
+束	bundle-そく
+技	+technique/skill-ぎ
+抜	remove/slip out-ばつ
+岐	!branch off-き
+忘	forget-ぼう
+志	!intention-し
+忍	!sneak/endure-にん
+忌	!detestable/mourning-き
+決	+decide-けつ
+択	!select/choose-たく
+沢	swamp-さわ
+吠	_bark/-None
+吹	!blow-すい
+状	+condition/status quo-じょう
+汲	_draws water/-None
+汽	!steam/vapor-き
+沈	!submerge/sink-ちん
+似	similar-じ
+伴	accompany/consort-はん
+低	!low/lower-てい
+佐	!assistant-さ
+役	role/duty-やく
+投	!throw-とう
+没	!sink/drown-ぼつ
+呈	!display-てい
+狂	!crazy/lunatic-きょう
+弄	_mess around with/-None
+改	!renew/reformation-かい
+攻	!assault/aggression-こう
+快	!pleasant/cheerful-かい
+努	!effort/toil-ど
+労	!labor-ろう
+秀	!excel-しゅう
+否	refuse/negate-ひ
+告	!inform/revelation-こく
+谷	valley-たに
+声	voice-ごえ
+君	+you/old boy-くん
+把	grasp-は
+求	!request-きゅう
+条	!clause/twig-じょう
+寿	longevity-じゅ
+麦	!wheat/barley-むぎ
+初	+first time-しょ
+乱	!disorder/riot-らん
+社	+shrine/company-しゃ
+言	say-げん
+角	angle-かく
+肖	!portrait/resemblance-しょう
+抗	!protest/confront-こう
+折	fold-せつ
+抑	!restrain/repress-よく
+位	!rank-い
+住	!reside/dwell-じゅう
+体	+body-たい
+作	make-さく
+戒	!warn/commandment-かい
+形	shape-けい
+我	my/ego-が
+希	+hope-き
+系	!system/lineage-けい
+辛	spicy-しん
+兵	soldier-へい
+邦	home country-ほう
+防	!prevent/ward off-ぼう
+肝	liver-かん
+押	!push-おう
+呻	_groan/-None
+果	+accomplish/fruit-か
+尚	!still/esteem-しょう
+画	drawing/brush stroke-が
+雨	rain-う
+周	!surrounding/circumference-しゅう
+妬	_jealou/-None
+拓	!clear the land-たく
+岩	boulder-がん
+協	!cooperation/co -きょう
+拗	!distort/-よう
+効	+effect/merit-こう
+抽	!extract/pluck-ちゅう
+油	oil-ゆ
+宙	!mid air-ちゅう
+届	!deliver-とど
+炊	!cook-すい
+炎	+flame/inflammation-えん
+炉	!fireplace/hearth-ろ
+昔	!long ago/once upon a time-むかし
+昏	!dusk/-こん
+者	someone-しゃ
+的	!target/bull's eye-てき
+泊	!stay overnight/overnight-はく
+拍	music beat/clap-はく
+迫	imminent/urge-はく
+肯	!agree/agreement-こう
+育	!raise a child/bring up-いく
+肩	!shoulder-かた
+青	blue-あお
+枢	!pivot/hinge-すう
+殴	_punch/assault-None
+欧	_europe-None
+拒	!reject/repel-きょ
+肪	!fatty/obese-ぼう
+肢	!limb-し
+肥	fertilizer-ひ
+股	crotch/-こ
+明	bright-めい
+服	clothing-ふく
+突	!poke/stab-とつ
+定	+determine-てい
+空	empty-くう
+宝	treasure-ほう
+房	+chamber/tassel-ぼう
+居	residence/reside-きょ
+刷	!print/printing-さつ
+泥	mud-どろ
+姉	older sister/elder sister-し
+妹	younger sister-まい
+始	!start/commence-し
+事	+thing/matter-じ
+妻	wife-さい
+垂	!dangling/droop-すい
+知	!know-ち
+委	!entrust/committee-い
+和	+harmony-わ
+呼	call-こ
+呟	_mutter/-None
+呪	!curse/-じゅ
+味	flavor-み
+拡	!expand/broaden-かく
+拝	+worship-はい
+抹	!rub-まつ
+招	!invite/beckon-しょう
+沼	!marsh-ぬま
+拐	!kidnapped/kidnap-かい
+到	!arrive/arrival-とう
+制	!structure/system-せい
+刻	!carve/engrave-こく
+刺	stab/thorn-し
+毒	!poison-どく
+取	take-しゅ
+侮	!despise/scorn-ぶ
+邪	wicked-じゃ
+阻	!impede/thwart-そ
+邸	!mansion/residence-てい
+況	!situation/but of course-きょう
+治	cure/reign-ち
+泳	!swim-えい
+沸	_boiling/seethe-None
+併	combine/join-へい
+供	offer/submit-きょう
+価	!value-か
+受	+accept-じゅ
+学	!study-がく
+乳	milk-にゅう
+宜	!fine/best regards-ぎ
+狙	!aim/-そ
+直	+directly/straightaway-ちょく
+具	!tool-ぐ
+祈	!praying/pray-き
+析	!analyze/chop-せき
+所	+place-しょ
+彼	he-かれ
+披	!presentation/expose-ひ
+版	edition/printing block-はん
+波	wave/waves-は
+枕	!pillow/-まくら
+枠	!frame-わく
+板	board/plank-いた
+岸	coast/beach-がん
+拙	_incompetent/bungling-None
+屈	!crouched/yield-くつ
+若	young-わか
+苦	+suffer/suffering-く
+店	store-てん
+英	!english/england-えい
+東	+east-とう
+典	+ceremony/code-てん
+苗	!seedling-なえ
+松	!pine tree-まつ
+林	+wood/grove-りん
+杯	cup/cupfuls-ぱい
+法	method-ほう
+沿	!alongside/run alongside-えん
+泡	bubble-あわ
+金	gold-きん
+命	+lifeforce/fate-めい
+舎	!building/cottage-しゃ
+念	!desire/wish-ねん
+武	+battle strength/warrior-ぶ
+延	!prolong-えん
+些	!slight/-さ
+依	depends on/reliant-い
+使	+use-し
+例	!example-れい
+夜	night-や
+卒	!graduate-そつ
+京	!capital-きょう
+怯	!frightened/-きょう
+怖	!scary/dreadful-ふ
+怪	+suspiciou/suspicious-かい
+径	!diameter-けい
+性	+nature of/sex-せい
+姓	family name/surname-せい
+往	!go out/journey-おう
+注	!pour-ちゅう
+枚	!sheets of/sheet of-まい
+枝	branche/bough-えだ
+放	+release/set free-ほう
+府	!province/municipality-ふ
+抵	!defying/resist-てい
+底	bottom-てい
+物	object/thing-もの
+忽	_immediately/-None
+忠	!loyalty-ちゅう
+易	easy-い
+承	!assent/acquiesce-しょう
+参	+visit-さん
+季	!season/seasons-き
+実	+truth/reality-じつ
+宗	+religion-しゅう
+官	!government/bureaucrat-かん
+宛	_addressed to/address-None
+祉	!well being/welfare-し
+歩	walk-ほ
+征	!conquer/subjugate-せい
+奇	!odd/strange-き
+河	stream/river-が
+斉	!simultaneously/adjusted-せい
+苛	!torment/-か
+茂	!grows thick/overgrown-も
+芽	sprout/bud-が
+茎	stem/stalk-くき
+盲	!blind-もう
+昆	!bug/descendants-こん
+昇	!ascend/rise up-しょう
+卓	!table/eminent-たく
+担	+manager/shouldering-たん
+抱	embrace-ほう
+拘	!confine/arrest-こう
+拠	+basi/foothold-きょ
+券	!ticket-けん
+奔	wild/bustle-ほん
+虎	!tiger-とら
+並	line up/row-なみ
+述	!expres/mention-じゅつ
+泣	!crie/cry-な
+免	!excuse-めん
+弦	!string instrument/bowstring-げん
+侍	samurai/waiter-じ
+玩	_toy/-None
+非	!not/un -ひ
+固	+firm/harden-こ
+門	!gate/gates-もん
+国	country-こく
+表	+surface-ひょう
+奉	volunteer/dedicate-ほう
+長	+long-ちょう
+幸	!happines/happiness-こう
+訂	!revise-てい
+訃	_obituary/-None
+計	!measure/plot-けい
+郎	!young man/son-ろう
+恨	_resent/resentment-None
+限	!limit-げん
+郊	!suburb/outskirts-こう
+型	type/mould-けい
+剃	_shave/-None
+則	!rule-そく
+削	!scraping off/plane-さく
+変	+unusual-へん
+哀	!pity/pathetic-あい
+亭	!inn/pavilion-てい
+貞	!virgin/upright-てい
+頁	_page-None
+負	+defeated/defeat-ふ
+赴	!proceed-ふ
+施	execute/alms-し
+甚	!immense/tremendously-じん
+政	+politic/politics-せい
+卸	!wholesale-おろし
+歪	_warp/-None
+是	!righteou/just so-ぜ
+送	+send/send off-そう
+迷	!lost/astray-めい
+逃	escape-とう
+前	before/in front-ぜん
+面	+mask-めん
+首	neck-しゅ
+皇	emperor-こう
+星	star-せい
+牲	!animal sacrifice-せい
+奏	!play an instrument/play music-そう
+巻	roll/scroll-かん
+美	!beautiful/beauty-び
+為	!for/do-い
+県	!prefecture-けん
+点	!point/spot-てん
+珍	!rare-ちん
+叙	!describe/confer-じょ
+食	+eat-しょく
+炭	charcoal-たん
+幽	!hazy/faint-ゆう
+峠	!peak/mountain pass-とうげ
+品	good/goods-ひん
+飛	fly-ひ
+盆	!tray/basin-ぼん
+垢	!filth/-く
+垣	bamboo fence/hedge-がき
+城	castle-じょう
+拭	_wipe/-None
+拷	!torture-ごう
+挑	!challenge-ちょう
+疫	epidemic-えき
+段	!step/grade-だん
+度	+degree/degrees-ど
+咲	_bloom/blossom-None
+咽	_choke/-None
+咳	_cough/-None
+革	reform/leather-かく
+帝	+empire/sovereign-てい
+南	south-なん
+風	wind-ふう
+殆	_almost/-None
+故	!circumstance/happenstance-こ
+軌	!track/rut-き
+俗	!customary/vulgar-ぞく
+促	!motivate/stimulate-そく
+俄	_suddenly/-None
+侵	!invading/encroach-しん
+契	!pledge-けい
+臭	!smelly/stinking-しゅう
+泉	spring-せん
+専	!specialize/specialty-せん
+封	+sealing/seal-ふう
+耐	!endure/ proof-たい
+厚	thick-こう
+威	!authority/intimidate-い
+虐	!cruel/tyrannize-ぎゃく
+盾	shield-じゅん
+査	!investigation/investigate-さ
+看	!look after/watch over-かん
+恰	_as though/-None
+悔	!regret/repent-かい
+恒	!unchanging/constancy-こう
+某	!anonymou/so and so-ぼう
+架	!construct/erect-か
+柔	soft/tender-じゅう
+染	!dyed/dye-せん
+信	!believe/faith-しん
+便	convenient/convenience-べん
+係	clerk/person in charge-かかり
+保	+preserve/protect-ほ
+退	!retreat-たい
+逆	+reverse/inverted-ぎゃく
+追	chase-つい
+砕	!smash-さい
+砂	sand-さ
+研	!sharpen/polish-けん
+窃	_stealthy/stealth-None
+宥	_soothed/-None
+宣	!proclaiming/proclaim-せん
+畑	field/farm-ばたけ
+背	back/stature-せ
+胃	!stomach-い
+怒	angry-ど
+怨	!grudge-おん
+怠	!lazy/neglect-たい
+急	!hurry-きゅう
+括	!tie together/fasten-かつ
+指	finger-し
+拾	!pick up-しゅう
+浄	!clean-じょう
+洞	cave/den-どう
+海	+sea-かい
+虹	!rainbow-にじ
+狩	!hunt-しゅ
+紅	crimson-こう
+独	+alone/single-どく
+活	!lively-かつ
+派	clique/faction-は
+洗	+wash-せん
+浅	!shallow-あさ
+洪	!flood/deluge-こう
+洋	!western/ocean-よう
+昧	!unclear/-まい
+昨	!yesterday-さく
+昭	!shining-しょう
+映	!reflected/reflect-えい
+約	!promised/promise-やく
+級	!clas/class-きゅう
+紀	!century/chronicle-き
+律	+law/rhythm-りつ
+建	build-けん
+津	!seaport/haven-つ
+皆	!everyone/all-かい
+音	sound-おん
+香	!fragrance/incense-こう
+春	springtime-しゅん
+軍	!army-ぐん
+栄	+prosper/flourish-えい
+冠	crown-かん
+後	after/behind-こう
+待	!waited/wait-たい
+持	hold-じ
+穿	_dig/-None
+客	guest-きゃく
+室	!room-しつ
+屋	+shop/roof-や
+屍	!corpse/-し
+昼	daytime-ひる
+卑	!lowly-ひ
+単	!single/simple-たん
+勇	!courage-ゆう
+祖	ancestor-そ
+祝	+celebrated/celebrate-しゅく
+神	god/gods-しん
+冒	!risked/risk-ぼう
+省	omitting/focus-しょう
+眉	_eyebrow/-None
+畏	!respect/-い
+界	!world-かい
+思	think-し
+発	departure/discharge-はつ
+重	heavy-じゅう
+乗	ride-じょう
+秋	autumn-あき
+科	!department-か
+秒	!second-びょう
+狭	!narrow/cramped-きょう
+峡	!gorge-きょう
+挟	_sandwiched-None
+孤	!solitary/orphan-こ
+狐	_fox/-None
+弧	!arch/arc-こ
+茨	_thorny/briar-None
+茸	_mushroom/-None
+荘	villa-そう
+要	!need-よう
+姦	!adultery/-かん
+姻	!marry/matrimony-いん
+姿	figure-すがた
+荒	rough/laid waste-こう
+茶	+tea-ちゃ
+草	gras/grass-そう
+胞	cell/placenta-ほう
+肺	!lung/lungs-はい
+胎	!womb-たい
+胆	!gall bladder-たん
+柄	+characteristic/design-がら
+柱	pillar-ちゅう
+枯	withered/wither-か
+相	each other/inter -そう
+閃	!flash/-せん
+座	!sit-ざ
+挫	!sprain/-ざ
+差	!variation/distinction-さ
+砲	canon/cannon-ほう
+祥	!favorable/auspicious-しょう
+師	+teacher/expert-し
+紋	!pattern/family crest-もん
+蚊	!mosquito-か
+眩	_dizzy/-None
+罠	_trap/-None
+眠	sleep-みん
+挙	!raise-きょ
+拳	!fist/-けん
+益	!profit/benefit-えき
+般	category/carrier-ぱん
+航	!navigate-こう
+殺	+kill-さつ
+匿	!conceal/hide-とく
+馬	horse-ば
+島	island-とう
+疲	!tired-ひ
+被	!cover/incur-ひ
+破	+rip/rend-は
+竜	!dragon-りゅう
+祟	_haunt/-None
+峰	!summit-ぽう
+討	!debated/chastise-とう
+射	+shoot-しゃ
+将	+leader-しょう
+笑	laughed/laugh-しょう
+弱	weak-じゃく
+帯	+belt/sash-たい
+恥	shame-ち
+時	+time-じ
+耽	_absorbed in/-None
+特	!special-とく
+逝	!die/departed-せい
+唆	!tempt-さ
+哲	!philosophy-てつ
+倉	!warehouse/godown-そう
+剣	!sword/saber-けん
+飢	!starving/hungry-き
+恭	_admiration/respect-None
+党	!political party/party-とう
+俸	!salary/stipend-ぽう
+旅	travel/trip-たび
+孫	grandchild-まご
+索	!seek/cord-さく
+素	plain/elementary-そ
+班	!squad-はん
+帰	+return home/homecoming-き
+浸	!soak/immersed-しん
+兼	!concurrently-けん
+書	+writing/write-しょ
+冥	!underworld/-めい
+辱	!humiliate/embarrass-じょく
+娠	!pregnancy/with child-しん
+振	shake-しん
+唇	!lip/lips-くちびる
+扇	fan-せん
+屑	_scrap/-None
+展	!development/unfold-てん
+徐	!gradually-じょ
+除	+exclude-じょ
+途	!route-と
+捜	!search-そう
+捕	!capture/catch-ほ
+捉	!catch/-そく
+挿	inserted/insert-そう
+称	!praise/appellation-しょう
+秩	!organized/regularity-ちつ
+秘	secret-ひ
+租	!taxation/tariff-そ
+剥	_peel/-None
+剛	!sturdy-ごう
+剤	!dose-ざい
+高	tall-こう
+華	gorgeou/splendor-か
+荷	luggage/baggage-に
+衰	!declined/decline-すい
+朗	!cheerful/melodious-ろう
+狼	_wolf/-None
+既	!already/previously-き
+根	root-こん
+悩	worry/trouble-のう
+悟	!comprehend/enlightenment-ご
+悦	!joy/ecstasy-えつ
+症	!symptom/symptoms-しょう
+病	+illnes/ill-びょう
+疾	_quickly/rapidly-None
+耕	!plow/till-こう
+栽	!planting/plantation-さい
+耗	!expend/decrease-もう
+珠	pearl-じゅ
+殊	!particularly-しゅ
+株	!stock/stocks-かぶ
+娘	!daughter-むすめ
+姫	!princes/princess-ひめ
+娯	!pleasure/recreation-ご
+捗	!progressing/-ちょく
+挽	_grinding/-None
+捌	_deal with/-None
+通	+pass through/traffic-つう
+速	!fast/quick-そく
+透	!transparent-とう
+造	!created/create-ぞう
+陥	!fall into/collapse-かん
+降	!descend-こう
+院	!institution/inst.-いん
+納	+payment/settlement-のう
+純	!pure/genuine-じゅん
+紐	_string/-None
+紛	!confusing/distract-ふん
+舐	_licked/-None
+紙	paper-し
+配	+distribute-はい
+酒	alcohol/sake-しゅ
+酌	!pour alcohol/bartending-しゃく
+勉	!diligent/exertion-べん
+従	!obey/accompany-じゅう
+起	+wake/rouse-き
+徒	!on foot/junior-と
+挨	!greeting/-あい
+捩	_twisted/-None
+涙	!tear/tears-なみだ
+埃	_dust/-None
+凄	!amazing/-せい
+凌	_survive/-None
+凍	!freeze/frozen-とう
+員	!member/employee-いん
+財	+property-ざい
+針	needle-しん
+釘	_nails2/-None
+恐	!fear-きょう
+恵	blessed/favor-え
+恋	romance-こい
+恩	!grateful/grace-おん
+核	!core/nucleus-かく
+栓	!cork/plug-せん
+桁	_digit/-None
+脅	!threatened/threaten-きょう
+骨	bone/skeleton-こつ
+宵	!nightime/wee hours-よい
+留	+stay/detain-りゅう
+袖	!sleeve-そで
+畜	!livestock-ちく
+息	breath-そく
+鬼	demon/ghost-おに
+埋	!buried/bury-まい
+残	!remain/remainder-ざん
+能	!ability-のう
+烈	!intense/ardent-れつ
+真	true-しん
+夏	summer-なつ
+貢	contribute/tribute-ぐ
+家	house-か
+容	!contain-よう
+宴	party/banquet-えん
+案	!proposal/plan-あん
+宮	palace/shinto shrine-きゅう
+害	!harm-がい
+連	!take along-れん
+軒	overhang/flats-のき
+庫	!storehouse/warehouse-こ
+陣	!military encampment/camp-じん
+原	+meadow-げん
+席	!seat-せき
+庭	garden/courtyard-にわ
+料	!fee-りょう
+粉	powder/flour-ふん
+粋	stylish/chic-すい
+胸	chest/bosom-きょう
+脈	!pulse/vein-みゃく
+脂	grease/fat-し
+脇	!armpit-わき
+胴	!torso/trunk-どう
+脆	_fragile/-None
+敏	!agile/cleverness-びん
+致	!end up/doth-ち
+倒	+collapsing/overthrow-とう
+梅	plum-うめ
+格	+statu/status-かく
+校	!school/exam-こう
+桃	!peach/peach tree-もも
+桜	!cherry blossom/cherry tree-さくら
+浪	!wandering-ろう
+浜	beach/seacoast-はま
+浮	float/floating-ふ
+浴	!bathe-よく
+流	+flowing/current-りゅう
+消	+erase/extinguish-しょう
+俳	!actor/haiku-はい
+修	+fix/discipline-しゅう
+候	+weather/climate-こう
+俺	_i/-None
+倫	!ethic/ethics-りん
+個	!individual-こ
+値	price-ね
+借	!borrow-しゃく
+倍	!double-ばい
+記	!noted/scribe-き
+訓	!training/instruction-くん
+託	!assign responsibility/consign-たく
+進	+move forward/advance-しん
+週	!week-しゅう
+逸	!avert/elude-いつ
+副	!second in command/vice -ふく
+側	+side-がわ
+酔	!drunk-すい
+執	persistent/tenacious-しつ
+務	!task-む
+殻	shell/husk-がら
+袋	bag/sack-ぶくろ
+移	!transfer/shift-い
+瓶	!bottle/flower pot-びん
+釈	+explanation/interpretation-しゃく
+寄	+approach/draw near-き
+宿	lodging/inn-しゅく
+密	!confidential/secrecy-みつ
+欲	!want/longing-よく
+盗	!steal-とう
+盛	thriving/boom-せい
+唱	!chant-しょう
+望	+wish/ambition-ぼう
+崩	!crumble-ほう
+庶	!ordinary person/commoner-しょ
+鳥	bird-とり
+魚	fish-ぎょ
+菓	!candy/confectionary-か
+巣	nest-す
+異	!vary/uncommon-い
+偵	!scouting/spy-てい
+偶	!unexpectedly/accidentally-ぐう
+偏	!biased/partial-へん
+偽	false/falsehood-ぎ
+祭	!festival/ritual-さい
+票	vote/ballot-ひょう
+崇	!admire/adore-すう
+描	!draw/sketch-びょう
+菌	!bacteria/germ-きん
+黄	yellow-き
+猫	!cat-ねこ
+率	percentage/ratio-りつ
+章	!chapter/badge-しょう
+商	!trade/make a deal-しょう
+虚	vacant/void-きょ
+産	+produce/products-さん
+鹿	_deer-None
+麻	numb/hemp-ま
+累	!accumulating/accumulate-るい
+略	!abbreviation-りゃく
+亀	turtle/tortoise-き
+術	!skill/art-じゅつ
+得	+gain-とく
+痒	_itchy/-None
+痕	!scar/-こん
+彫	!engrave/carve-ちょう
+彩	!coloring-さい
+惨	miserable/wretched-さん
+済	conclude/finish-さい
+淡	!pale/thin-たん
+添	!attachment/annexed-てん
+停	!cease/halt-てい
+涼	!refreshing-りょう
+液	!liquid/fluid-えき
+械	!machine/contraption-かい
+桶	!bucket/-おけ
+梯	_ladder/-None
+眼	!eyeball-がん
+眺	!gaze/stare-ちょう
+郷	+birthplace/hometown-きょう
+符	mark/token-ふ
+第	!rank number/no.-だい
+笛	flute-ふえ
+舵	!ship steering rudder/-だ
+舶	!vessel/liner-ぱく
+船	ship-せん
+脳	!brain-のう
+脱	!undres/undress-だつ
+豚	!pig/pork-ぶた
+脚	+leg/shins-きゃく
+掃	!sweeping/sweep-そう
+授	!receive/impart-じゅ
+捲	!turn the page/-けん
+掴	_grab/-None
+捧	_dedicate/-None
+排	!eliminate/repudiate-はい
+控	refrain/withdraw-こう
+掛	!put/hang-か
+接	!connect/touch-せつ
+採	!pick-さい
+捨	!throw away/discard-しゃ
+据	_set-None
+患	!sick/afflicted-かん
+悠	!relaxed/remote-ゆう
+悪	bad-あく
+窓	window-まど
+惚	!fall in love/-こつ
+偲	_recall/-None
+著	!authored/renowned-ちょ
+猪	_boar-None
+都	+metropoli/metropolis-と
+探	!looking for/grope-たん
+梨	!pear/pear tree-なし
+深	deep-しん
+唸	_growled/-None
+捻	_wrenched/-None
+斜	!diagonal-しゃ
+釣	!fishing/angling-つ
+渉	!involved/ford-しょう
+寂	!lonely/loneliness-じゃく
+戚	!relative/-せき
+渋	!bitter/astringent-じゅう
+婦	lady-ふ
+婆	!grandmother/old woman-ば
+婚	!marriage-こん
+萎	!wilted/-い
+剰	!exces/surplus-じょう
+唾	!saliva/-だ
+郵	!mailing/mail-ゆう
+猟	!hunting animal/game hunting-りょう
+猛	!fierce-もう
+動	!move-どう
+勘	!intuition-かん
+雪	snow-ゆき
+常	+usual-じょう
+堂	!auditorium/hall-どう
+強	strong-きょう
+張	+affix/lengthen-ちょう
+帳	!notebook-ちょう
+掻	_scratch/-None
+蛍	!firefly/lightning bug-けい
+蛇	snake-じゃ
+推	!assume/conjecture-すい
+唯	!only/solely-ゆい
+雀	!sparrow/-すずめ
+部	!section-ぶ
+陪	!aid/auxiliary-ばい
+培	!cultivating/cultivate-ばい
+販	!sale/marketing-はん
+旋	!rotating/rotation-せん
+敗	failed/failure-はい
+族	!family/tribe-ぞく
+域	!area/range-いき
+掘	!excavated/dig-くつ
+堀	!canal/ditch-ほり
+理	!logic-り
+野	plain/plains-や
+黒	black-くろ
+康	!physically fit/sane-こう
+健	!healthy-けん
+逮	!arrest/apprehend-たい
+粛	!silent/solemn-しゅく
+規	+regulation/standard-き
+現	!appeared/present-げん
+視	!look/inspection-し
+習	+learned/learn-しゅう
+混	!mixed/mix-こん
+翌	!the following-よく
+基	+foundation/fundamentals-き
+涯	!horizon-がい
+崖	!cliff/-がい
+惜	_regrettable/pity-None
+措	!course of action/set aside-そ
+悼	!mourning/lament-とう
+掲	!posted/put up a notice-けい
+喝	!reprimanding/hoarse-かつ
+渇	!thirsty/thirst-かつ
+断	!turned down/severance-だん
+粗	!coarse-そ
+粘	!sticky-ねん
+粒	grain/grains-つぶ
+情	+emotion/feelings-じょう
+責	!blame-せき
+清	+clear/pure-せい
+貧	poor/poverty-ひん
+貨	!money/freight-か
+貫	!pierce-かん
+斬	!chop off/-ざん
+乾	!dries out/drought-かん
+転	!fall down/revolve-てん
+軟	!soft quality/soft-なん
+頃	!occasion/-ごろ
+貪	_greed/-None
+頂	!top/place on the head-ちょう
+菜	vegetable-さい
+渓	!ravine/mountain stream-けい
+淫	_lewd/-None
+閉	+close/closed-へい
+爽	!invigorating/-そう
+問	+question-もん
+険	!steep/precipitous-けん
+陶	!pottery-とう
+陰	shadow/shade-いん
+陸	!land-りく
+隆	!flourish/hump-りゅう
+陳	!declared/line up-ちん
+絆	_bond/-None
+経	+elapse/sutra-けい
+紹	!introduction/introduce-しょう
+紺	!dark blue/navy blue-こん
+赦	!pardon-しゃ
+教	+teaching/teach-きょう
+球	!sphere/ball-きゅう
+救	!rescue/salvation-きゅう
+終	+end-しゅう
+細	+thin/dainty-さい
+紳	!refined man/sire-しん
+組	assemble/association-くみ
+許	!permit-きょ
+設	!establish/establishment-せつ
+訳	translate-やく
+訪	!go and see/call on-ほう
+訟	!sue-しょう
+這	_crawling/-None
+弾	+bounced/bullet-だん
+圏	!range/sphere-けん
+湾	!bay/gulf-わん
+補	+supplement-ほ
+傍	!beside/bystander-ぼう
+偉	!great/admirable-い
+備	!prepare/equip-び
+揺	!swaying/swing-よう
+遥	_distant/-None
+援	!assist/abet-えん
+猥	_obscene/-None
+湧	_gushed/-None
+隈	_shade/-None
+閑	!leisurely/leisure-かん
+焚	_light a fire/-None
+森	forest-しん
+普	!general/universal-ふ
+道	road/road way-どう
+着	wear/don-ちゃく
+湿	!damp-しつ
+鈍	!dull-どん
+飯	meal-はん
+飲	drink-の
+悲	!sad-ひ
+扉	front door-とびら
+斐	_worthwhile/-None
+喜	!glad/rejoice-き
+善	!excellent/virtuous-ぜん
+量	!quantity-りょう
+童	+youngster/juvenile-どう
+達	reach/accomplished-たつ
+就	+commence/concerning-しゅう
+報	report-ほう
+晴	!clear up-せい
+惰	!sloth/lazy-だ
+博	expert/dr.-はく
+葬	!burial/interment-そう
+募	!recruit-ぼ
+落	+drop/fall-らく
+棺	!coffin-かん
+椅	!chair/-い
+棒	!pole/rod-ぼう
+塀	!fence-へい
+堰	!dam/-せき
+堪	withstand-かん
+幾	how much/how many-いく
+紫	purple-むらさき
+傘	umbrella-かさ
+滋	_nourishment/nourishing-None
+番	!turn-ばん
+歯	tooth-ば
+奥	!inner/core-おく
+尊	esteem/revered-そん
+猶	!postponed/waver-ゆう
+酢	!vinegar-す
+富	wealth-ふ
+帽	!hat/cap-ぼう
+幅	width/hanging scroll-はば
+粧	!makeup/cosmetics-しょう
+距	!distance/long distance-きょ
+堅	!solid/strict-けん
+覚	!remember/memorize-かく
+営	!conducting busines/occupation-えい
+覗	_peek/-None
+象	image/elephant-しょう
+隊	!squadron/regiment-たい
+遂	!achieve/consummate-すい
+創	!begin/genesis-そう
+割	divide/proportion-わり
+慌	!panicking/disconcerted-こう
+街	avenue/boulevard-がい
+御	honorable-ぎょ
+復	+restored/restore-ふく
+循	!circulation/sequential-じゅん
+棟	!ward/ridgepole-とう
+疎	!ignorant/alienate-そ
+棘	_thorn/-None
+塁	_base/bases-None
+畳	tatami mat-たたみ
+喧	!noisy/-けん
+握	!grip-あく
+硬	!hard/stiff-こう
+属	!belong-ぞく
+裁	!judge/tailor-さい
+装	+dresse/attire-そう
+喪	funeral/miss-も
+裂	split-れつ
+搭	!load/board-とう
+塔	!tower/pagoda-とう
+裕	!rich/abundant-ゆう
+答	+answer/solution-とう
+集	!gather-しゅう
+葉	leaf-ば
+喋	_speak/-None
+絞	_wring/strangle-None
+給	!provide/salary-きゅう
+結	+tie-けつ
+敢	!brave/daring-かん
+敬	+show respect/awe-けい
+散	!scattering/scatter-さん
+寒	+cold-かん
+衆	many people/masses-しゅう
+掌	!palm of my hand/manipulate-しょう
+換	!exchanged/interchange-かん
+喚	!yell-かん
+喫	!consuming/consume-きつ
+喉	_throat/-None
+測	!asses/fathom-そく
+貯	!saving/savings-ちょ
+貼	_stick/-None
+雇	hired/employ-こ
+雄	male-ゆう
+焦	!char-しょう
+喘	_panting/-None
+嵐	_storm-None
+嵌	_fit into/-None
+隅	corner-すみ
+過	!excessive/overdo-か
+渦	whirlpool-うず
+遇	!encountered/interview-ぐう
+場	location-ば
+湯	hot water-ゆ
+陽	sunlight/sunshine-よう
+揚	lift/hoist-よう
+稀	_uncommon/-None
+税	!tax-ぜい
+程	+extent-てい
+絶	+terminate/discontinue-ぜつ
+絵	+picture-え
+統	!unify/overall-とう
+絡	!entangled/entwine-らく
+媒	!go between/mediator-ばい
+欺	!deceive/deceit-ぎ
+揉	_massage/-None
+智	_wisdom-None
+替	replace/exchange-がえ
+晶	!crystal/sparkle-しょう
+揃	_assembled/-None
+愉	!enjoyable/pleasure-ゆ
+喩	!metaphor/-ゆ
+満	!satisfied/full-まん
+減	!decrease/dwindle-げん
+渡	+crosse/transit-と
+湖	lake-こ
+港	harbor-こう
+温	!warm temperature/warm-おん
+暑	!hot weather/sultry-しょ
+最	!most/utmost-さい
+景	!scenery-けい
+煮	!simmering/boil-に
+然	+like that/sort of thing-ぜん
+無	+nothing/nothingness-む
+随	!freely/follow-ずい
+殖	!multiplying/augment-しょく
+階	!stair/story-かい
+痢	!diarrhea-り
+痛	pain-つう
+痩	_lose weight/-None
+尋	!inquire-じん
+惑	!perplexing/beguile-わく
+廊	!corridor-ろう
+廃	abolished/abolish-はい
+遍	everywhere-へん
+遅	!slow-ち
+遊	playing/play-ゆう
+開	!open-かい
+悶	!agony/-もん
+間	space/interval-かん
+検	!inspection/examination-けん
+植	+plant-しょく
+極	extreme/poles-きょく
+等	+equivalent/etc.-とう
+策	!scheme-さく
+筋	muscle-すじ
+筆	writing brush-ひつ
+筒	cylinder-とう
+詞	!word/parts of speech-し
+腕	arm-うで
+腔	!cavity/-こう
+勝	win/victory-しょう
+越	!passe/surpass-えつ
+提	+submit/propose-てい
+堤	dike-つつみ
+超	!exceed/transcend-ちょう
+揮	!commanded/brandish-き
+運	!carry-うん
+軽	light/lightly-けい
+軸	!axi/axis-じく
+暁	!daybreak-あかつき
+晩	!nighttime/nightfall-ばん
+焼	roasting/bake-しょう
+期	+period-き
+朝	morning-ちょう
+棚	shelf-だな
+厨	!kitchen/-ちゅう
+登	+climb/ascend-とう
+短	+short-たん
+買	buy-か
+貰	_get/-None
+貿	!trading activity/trade-ぼう
+雰	!atmosphere-ふん
+勤	+hard working/diligence-きん
+雲	cloud-うん
+順	!sequence/obey-じゅん
+項	!paragraph-こう
+須	!required/ought-す
+賀	!celebration/congratulations-が
+貸	lend-たい
+貴	!valuable/precious-き
+費	expense-ひ
+評	+evaluate-ひょう
+証	!evidence-しょう
+詐	!fraud/lie-さ
+訴	!appealed/accusation-そ
+詠	_compose poetry/recitation-None
+診	!medical examination/checkup-しん
+裏	back side/back-うら
+蓄	!amasse/amass-ちく
+塊	!lump/clod-かい
+嗅	!sniffing/-きゅう
+漠	!vague-ばく
+奨	!promote/exhort-しょう
+滞	!delayed/stagnate-たい
+羨	!enviou/envious-せん
+溝	!ditche/gutter-みぞ
+義	!obligation/righteousness-ぎ
+較	!comparison/contrast-かく
+摂	!intake/vicarious-せつ
+聖	!sacred/holy-せい
+寛	!generou/tolerant-かん
+窟	!cavern/-くつ
+碗	!tea bowl/-わん
+寝	lie down-ね
+詳	!detailed-しょう
+新	+new-しん
+群	!gather together/flock-ぐん
+辞	!resign-じ
+睨	_glare/-None
+鼠	_mouse/-None
+献	contribution/offering-けん
+慎	!careful/humility-しん
+債	!debt/bond-さい
+慨	!emotional/rue-がい
+督	!supervise/coach-とく
+僧	buddhist monk/buddhist priest-そう
+腎	!kidney/-じん
+夢	dream-む
+置	positioned/placement-ち
+署	!government organization/signature-しょ
+罪	+guilty/guilt-ざい
+虜	!captive-りょ
+勢	+energy/forces-せい
+廉	_inexpensive/bargain-None
+傑	!outstanding/greatness-けつ
+準	!standard/semi -じゅん
+携	!portable-けい
+傷	wound-しょう
+嗜	!fond/-し
+嗄	_hoarse/-None
+嘩	_quarrel/-None
+滝	!waterfall-たき
+溶	!melted/melt-よう
+滑	!slip/slippery-かつ
+福	!good fortune/blessing-ふく
+隔	!isolated/isolate-かく
+隙	!gap/-げき
+照	!illuminated/illuminate-しょう
+蒸	!vapor/steam-じょう
+煎	_brewing/-None
+腫	!swelling/-しゅ
+勧	!recommend/persuade-かん
+働	work-どう
+睡	!drowsy-すい
+頑	!stubborn-がん
+預	!depositing/deposit-よ
+傾	!inclined/lean-けい
+鼓	drum-こ
+頓	!rapidly/-とん
+煩	annoying/anxiety-はん
+靴	shoe/shoes-くつ
+僅	_a little/-None
+煙	smoke-えん
+戦	+war-せん
+裸	naked-ら
+禅	!zen-ぜん
+歳	year old/year end-さい
+滅	!ruin/destroy-めつ
+載	!placement/load-さい
+腺	!gland/-せん
+腹	abdomen-はら
+腰	waist/loins-こし
+腸	!intestine/intestines-ちょう
+継	inherit-けい
+続	!continue-ぞく
+絹	!silk-きぬ
+賃	!rate/fare-ちん
+資	!asset/assets-し
+損	!losse/damage-そん
+催	!hold an event/sponsor-さい
+稚	!childish/immature-ち
+雅	elegant/gracious-が
+搬	transport/conveyor-はん
+殿	imperial palace/mr.-でん
+裾	_hem/-None
+源	!source-げん
+溺	!drown/-でき
+溜	_accumulate/-None
+豊	!abundant/bountiful-ほう
+嵩	_volume/-None
+農	!farm/agriculture-のう
+嫌	dislike-けん
+嫁	bride/marry into-よめ
+嫉	_envy/-None
+跡	trace/tracks-せき
+跳	!jumping/hop-ちょう
+路	+path-ろ
+嘆	!grief/sigh-たん
+漢	!chinese/sino -かん
+酬	!reward/repay-しゅう
+賊	!thief/burglar-ぞく
+賂	_bribery/-None
+賄	_bribe-None
+鈴	!small bell-すず
+鉄	!iron-てつ
+鉢	flowerpot/bowl-はち
+鉛	lead/lead (metal)-えん
+鉱	!mineral-こう
+幹	tree trunk-かん
+跨	_straddle/-None
+誇	!proud/boast-こ
+該	!applicable/above stated-がい
+飽	!tired of/sated-ほう
+飼	raising an animal/domesticate-か
+飾	decorate-しょく
+節	+time of year/node-せつ
+溢	_overflowing/-None
+禁	!ban/prohibition-きん
+塗	!painting/paint-と
+塩	salt-えん
+盟	!alliance-めい
+塞	block/-そく
+話	talk/tale-わ
+誉	!honor/reputation-よ
+詫	_apologize/-None
+誠	!sincere/sincerity-せい
+詰	pack/packed-きつ
+詣	!visit a temple/-けい
+試	!test-し
+詩	!poem-し
+詮	!discussion/-せん
+馴	_familiar with/-None
+鳩	_pigeon-None
+墓	grave-はか
+幕	curtain-ばく
+雷	lightning/thunder-らい
+零	!zero-れい
+電	!electricity-でん
+触	!touch/contact-しょく
+蜂	bee/-はち
+解	+unravel-かい
+愛	!love-あい
+暇	free time/spare time-か
+暗	+dark/darkness-あん
+暖	!warm weather/warmth-だん
+遠	far/distant-えん
+園	+park-えん
+猿	!monkey-さる
+想	+thought/concept-そう
+感	!feel/emotion-かん
+愚	!foolish-ぐ
+意	!idea-い
+棄	!abandon-き
+楽	fun/music-らく
+業	+busines/profession-ぎょう
+微	!subtle/delicate-び
+違	!difference-い
+数	+number-すう
+痴	!stupid-ち
+痺	_paralyzed/-None
+遣	!dispatch-けん
+魂	soul-こん
+銃	!gun-じゅう
+鞄	_briefcase/-None
+寧	_polite/rather-None
+僕	!me-ぼく
+窪	_hollow/depression-None
+算	calculate-さん
+箇	!item-か
+管	!pipe-かん
+鼻	+nose-はな
+徴	!feature/indications-ちょう
+旗	flag/national flag-き
+複	!multiple/duplicate-ふく
+疑	!doubt-ぎ
+穀	!cereal grain/cereals-こく
+製	!manufacutured/made in...-せい
+需	!demand-じゅ
+歌	sing/song-か
+端	tip/edge-たん
+彰	!commended/patent-しょう
+障	!obstacle/hinder-しょう
+境	boundary-きょう
+塵	_garbage/-None
+腐	rot-ふ
+塾	!cram school-じゅく
+貌	!appearance/-ぼう
+稲	rice plant-いな
+種	+seed/species-しゅ
+暮	!becomes dark/livelihood-ぼ
+蔑	!contempt/-べつ
+慕	_adore/pining-None
+像	!statue-ぞう
+豪	!powerful/overpowering-ごう
+僚	!colleague-りょう
+歴	!past/curriculum-れき
+暦	calendar-れき
+蜜	!honey-みつ
+踊	dance/jump-おど
+慣	!accustomed-かん
+賑	_bustling/-None
+領	!territory/jurisdiction-りょう
+構	!care/posture-こう
+様	mr./esq.-よう
+模	+imitate/imitation-も
+憎	!hate-ぞう
+増	!increase-ぞう
+層	!layer/stratum-そう
+遭	!ran into/encounter-そう
+遮	!obstructing/intercept-しゃ
+適	!appropriate/suitable-てき
+嘘	_lie/-None
+碑	!stone monument/tombstone-ひ
+鳴	ring/chirp-めい
+磁	!magnet-じ
+漂	!drifting/drift-ひょう
+漏	!leaking/leak-ろう
+漕	_rowed/rowing-None
+演	!performance-えん
+漁	catch a fish/fishing-ぎょ
+漆	!lacquer-うるし
+銘	!inscription-めい
+銀	!silver-ぎん
+銅	!copper-どう
+銭	coin-せん
+酸	!acid-さん
+酵	!fermentation-こう
+酷	!harsh/cruel-こく
+慢	!boast/ridicule-まん
+漫	!manga/loose-まん
+髪	hair on my head/hair of the head-かみ
+聞	hear-ぶん
+閥	!faction/clique-ばつ
+関	related/connection-かん
+閣	!government cabinet/tower-かく
+静	+quiet-せい
+精	+refined-せい
+漬	!pickled/pickling-つ
+奪	!take away/rob-だつ
+雑	miscellaneou/miscellaneous-ざつ
+維	!fiber-い
+雌	!female-し
+徳	moral/benevolence-とく
+態	!attitude-たい
+熊	_bear-None
+遜	!humble/-そん
+腿	!thigh/-たい
+膜	!membrane-まく
+罰	!penalty-ばつ
+誓	!vow-せい
+獄	!prison-ごく
+際	moment/occasion-ぎわ
+察	!observe/guess-さつ
+隠	hide/conceal-いん
+駆	drive-く
+駄	!useles/burdensome-だ
+駅	!train station/station-えき
+概	!summary/outline-がい
+滴	drop of water/drip-てき
+摘	!pinch-てき
+認	!acknowledge-にん
+誘	!temptation/entice-ゆう
+語	+language/word-ご
+誌	!document-し
+説	+theory/explanation-せつ
+読	read-どく
+誤	!error/mistake-ご
+練	!practice-れん
+綴	_spell/-None
+緑	green-りょく
+緒	with/thong-しょ
+総	!total/general-そう
+綿	!cotton-めん
+綱	rope/hawser-こう
+網	net/netting-あみ
+綻	!coming apart/-たん
+聡	!wise/-そう
+歓	!delighted/delight-かん
+舞	dance performance/dance-ぶ
+確	!accurate/assurance-かく
+権	+right/authority-けん
+監	!supervision/oversee-かん
+盤	!flat board/tray-ばん
+蔵	+storage/storehouse-ぞう
+舗	pavement/shop-ほ
+澄	_serene/lucidity-None
+皺	_wrinkled/-None
+撫	!stroking/-ぶ
+墜	!crash-つい
+撲	!sumo/slap-ぼく
+魅	!attractive/fascination-み
+頬	_cheek/-None
+踏	step on/step-とう
+憂	sorrow/melancholy-ゆう
+履	footwear/footgear-り
+膝	!knee/-ひざ
+嘲	!ridicule/-ちょう
+潮	tide-しお
+糊	_glue/-None
+審	!examination/hearing-しん
+寮	!dormitory-りょう
+窮	!cornered/hard up-きゅう
+儚	_fleeting/-None
+養	!foster-よう
+僻	_remote/-None
+儀	!manner/ceremony-ぎ
+趣	taste/gist-しゅ
+暴	+violent/outburst-ぼう
+撮	!photograph/snapshot-さつ
+褒	_compliment/praise-None
+敵	!enemy-てき
+敷	laying/spread-しき
+劇	!drama-げき
+慮	!consideration/prudence-りょ
+戯	!game/frolic-ぎ
+膚	!skin surface/skin-ふ
+嬉	!happy/-き
+弊	!abuse-へい
+幣	!currency/cash-へい
+餅	_mochi/-None
+餌	_bait/-None
+餓	!starvation/starve-が
+蝿	_houseflie/-None
+蝶	!butterflie/butterfly-ちょう
+縄	straw rope-じょう
+噂	_rumor/-None
+嘱	!commissioned/entrust-しょく
+噛	_bite/-None
+編	knit/compilation-へん
+緩	!loose/slacken-かん
+縁	+edge/affinity-えん
+線	!line-せん
+締	!tighten-てい
+緊	!tension/tense-きん
+潔	!cleanlines/undefiled-けつ
+撤	_withdrawing/remove-None
+徹	!thoroughly/penetrate-てつ
+撒	_sprinkling/-None
+衝	!collision/collide-しょう
+霊	+phantom/spirits-れい
+器	+container/utensil-き
+震	!quake-しん
+憧	!look up to/-どう
+導	!guide/guidance-どう
+選	!choose/elect-せん
+影	silhouette/shadow-えい
+稽	!pondering/-けい
+稼	!earn/earnings-か
+稿	!draft-こう
+遺	+inheritance/bequeath-い
+賞	!prize-しょう
+潰	!crush/-かい
+勲	!medal/meritorious deed-くん
+熟	!ripe/mellow-じゅく
+黙	!silence-もく
+熱	!heat-ねつ
+慰	!console/consolation-い
+億	!hundred million-おく
+穂	!ear of a plant-ほ
+暫	!a little while/temporarily-ざん
+輝	_radiant/radiance-None
+輩	comrade-はい
+輪	wheel-りん
+摩	!friction/chafe-ま
+撃	!attack/beat-げき
+鋭	!sharpnes/pointed-えい
+標	!sign/signpost-ひょう
+横	horizontal/sideways-よこ
+槽	!tub/vat-そう
+賠	!compensation-ばい
+閲	!browse/review-えつ
+賜	!gift/grant-し
+潤	!moist/wet-じゅん
+賛	!approve-さん
+質	+quality/substance-しつ
+潜	!diving/submerge-せん
+罵	!insult/-ば
+駒	!board game piece/pony-こま
+駐	!parking-ちゅう
+範	!scope/pattern-はん
+箸	!chopstick/-はし
+箱	boxe/box-はこ
+憤	!furiou/aroused-ふん
+諸	!variou/various-しょ
+噴	!erupted/erupt-ふん
+課	!assignment/chapter-か
+調	!investigate/tune-ちょう
+談	!conversation/discuss-だん
+請	claim/solicit-せい
+誕	!birth/nativity-たん
+論	!opinion/argument-ろん
+誰	_who/-None
+諾	!consent-だく
+誼	_friendship/-None
+賭	!gamble-と
+賢	!clever/intelligent-けん
+獣	beast/animal-じゅう
+薦	!recommendation/recommend-せん
+磨	_polish/grind-None
+糖	!sugar-とう
+輸	!transportation/transport-ゆ
+麺	!noodle/-めん
+壇	+platform/podium-だん
+醒	!awake/-せい
+曇	_cloudy/cloudy weather-None
+積	+piled up/volume-せき
+縦	vertical-じゅう
+髭	_beard/-None
+縛	!bind/truss-ばく
+縫	!sew-ほう
+緯	!latitude/horizontal-い
+繁	!prosperity/luxuriant-はん
+還	!go back/send back-かん
+避	!avoid/evade-ひ
+壁	wall-へき
+獲	acquired/seize-かく
+擁	!protection/hug-よう
+奮	!excited/stirred up-ふん
+操	!operate/maneuver-そう
+薬	drug/medicine-やく
+築	!construction/fabricate-ちく
+衛	!guard/defense-えい
+衡	!balance/equilibrium-こう
+燃	!burning/burn-ねん
+興	interest/entertain-こう
+膨	!expansion/swell-ぼう
+龍	_old dragon/-None
+骸	!skeleton/-がい
+橋	bridge-きょう
+樹	!forest tree/timber trees-じゅ
+機	!device/mechanism-き
+穏	calm-おん
+憶	!memory/recollection-おく
+憲	!constitution-けん
+整	!adjust/organize-せい
+憩	!take a break/recess-けい
+凝	!stiff/congeal-ぎょう
+親	parent-しん
+隣	!neighbor/neighboring-りん
+頼	!rely/trust-らい
+頭	head-とう
+激	!fierce2/violent-げき
+濃	!concentrated-のう
+薄	diluted/dilute-はく
+融	!financing/dissolve-ゆう
+館	!large building/bldg.-かん
+濁	!muddy/voiced-だく
+錬	_strengthen/tempering-None
+錆	_rust/-None
+錠	!lock-じょう
+録	!recorded/record-ろく
+錯	!mistake/confused-さく
+鋼	steel-こう
+嬢	!young lady/lass-じょう
+壊	!break/demolition-かい
+懐	pocket-かい
+謀	+plot/conspire-ぼう
+諭	!persuade/rebuke-ゆ
+諦	_give up/-None
+謡	!song/noh chanting-よう
+濯	!rinse/laundry-たく
+環	!environment/ring-かん
+燥	!dryer/parch-そう
+轄	!control-かつ
+繋	_link/-None
+儲	_profitable/-None
+贅	_luxury/-None
+曜	!day of the week/weekday-よう
+難	!difficult-なん
+観	!view/outlook-かん
+鎮	!suppres/tranquillize-ちん
+鎌	_sickle-None
+鎖	chain-さ
+擬	!simulation/mimic-ぎ
+擦	!rub together/grate-さつ
+鮮	!fresh-せん
+闇	!darknes/-やみ
+癌	!cancer/-がん
+療	!treatment/heal-りょう
+聴	!listening/listen-ちょう
+臆	!coward/-おく
+懇	!sincerely/sociable-こん
+鍛	!forging/forge-たん
+鍵	_key/-None
+鍋	_pot/-None
+醜	!ugly-しゅう
+講	!lecture-こう
+購	!purchasing/subscription-こう
+醤	_soy sauce/-None
+繊	!delicate/slender-せん
+績	!result/exploits-せき
+縮	!shrinking/shrink-しゅく
+霜	!frost-しも
+霞	!mist/-かすみ
+濡	_wet/-None
+償	!reparation-しょう
+覧	!watching/perusal-らん
+頻	!frequently/repeatedly-ひん
+齢	!age-れい
+曖	_ambiguou/-None
+犠	!sacrifice-ぎ
+優	!kind/tenderness-ゆう
+謝	!thank/apologize-しゃ
+謙	!modest/self effacing-けん
+謹	!paying attention/discreet-きん
+謎	_puzzle/-None
+厳	+strict/stern-げん
+糞	!excrement/-ふん
+翼	wing-よく
+瞳	!pupil-どう
+職	!job/post-しょく
+織	weaving/weave-おり
+繕	!mending/darning-ぜん
+礎	basic/cornerstone-いしずえ
+襟	!collar-えり
+襖	_sliding door/-None
+鯉	_koi fish/carp-None
+贈	present/presents-ぞう
+糧	food/provisions-かて
+騎	!horseman/equestrian-き
+騒	!makes noise/boisterous-そう
+験	experience/verification-けん
+癒	!healed/healing-ゆ
+懲	!disciplinary/penal-ちょう
+覆	covered with/capsize-ふく
+臨	!confront/look to-りん
+穫	!harvest-かく
+瞬	!instanteou/wink-しゅん
+鞭	!whip/-べん
+簡	!simplified/simplicity-かん
+闘	!fight-とう
+翻	!flipped/flip-ほん
+類	!sort-るい
+題	!subject/topic-だい
+顔	face-がお
+顕	!become apparent/appear-けん
+癖	habit/mannerism-へき
+額	+amount/forehead-がく
+韓	!korea-かん
+鏡	_mirror-None
+爆	!explode/bomb-ばく
+願	+please/petition-がん
+繰	_repeat/winding-None
+蹴	!kick/-しゅう
+蟻	_ant/-None
+覇	!dominate/hegemony-は
+麗	!pretty/lovely-れい
+霧	!fog-きり
+識	!consciou/discriminating-しき
+警	!police/admonish-けい
+臓	!organ/entrails-ぞう
+離	!separation/detach-り
+羅	!arrange/gauze-ら
+艶	!shiny/glossy-つや
+瀕	_verge of/-None
+瀬	!river shallow/rapids-せ
+簿	!registry/register-ぼ
+騙	_tricked/-None
+蘇	!revive/-そ
+鯨	!whale-げい
+鶏	chicken-けい
+懸	hanging/suspend-けん
+鐘	bell-かね
+騰	!rise/inflation-とう
+欄	!column-らん
+競	competing/vie-きょう
+籍	!publication/enroll-せき
+響	!echoe/echo-きょう
+議	!conference/deliberation-ぎ
+譲	!transfer ownership/defer-じょう
+護	!protector/safeguard-ご
+轟	!roar/-ごう
+魔	!magic/witch-ま
+艦	!warship-かん
+顧	!look back-こ
+露	dew-ろ
+躍	!leap-やく
+驚	!surprise/wonder-きょう
+鑑	!appraise/specimen-かん
+鶴	!crane-つる
+襲	!make an attack/attack-しゅう
+沖	!open sea-おき
+硫	!sulphur/sulfur-りゅう
+礁	!reef-しょう
+俊	_talented/sagacious-None
+伯	!uncle/chief-はく
+啓	!enlightenment/disclose-けい
+或	_or/-None
+享	!acceptance/receive-きょう
+祷	!prayer/-とう
+禍	_misfortune/calamity-None
+曹	!sergeant/cadet-そう
+瞑	!close your eye/-めい
+瞭	!clarity/-りょう
+羞	!ashamed/-しゅう
+甥	!nephew/-おい
+瘤	_lump/-None
+摯	_seriou/-None
+俵	!straw bag/bag-ひょう
+壌	!ground soil/lot-じょう
+蓋	lid/-がい
+藻	seaweed-そう
+菊	!chrysanthemum-きく
+掟	!decree/-おきて
+楚	!neat/-そ
+淀	_stagnant/-None
+抉	_scoop out/-None
+扮	_disguise/-None
+拶	!salutation/-さつ
+汰	!sift/-た
+沙	!fine sand/-さ
+炒	_fried/-None
+鬱	!depressed/-うつ
+遷	!transition-せん
+粥	!rice porridge/-かゆ
+墨	black ink-すみ
+牽	_drag/-None
+尉	!military officer-い
+碁	!go-ご
+猾	!sly/-かつ
+狡	!cunning/-こう
+狸	_racoon/-None
+獅	!lion/-し
+徘	!roam/-はい
+徊	!wander around/-かい
+凧	!kite/-たこ
+此	_thi/-None
+麓	!foot of the mountain/-ろく
+雛	_chick/-None
+於	_at/-None
+筈	_supposed/-None
+泰	!peaceful-たい
+薪	!firewood-たきぎ
+秤	_scale/-None
+宰	!oversee/superintend-さい
+款	!subsection/goodwill-かん
+淑	_graceful-None
+叔	_aunt/uncle-None
+隷	!slave-れい
+愕	!astonished/-がく
+酎	!shochu/-ちゅう
+顎	_chin/-None
+睦	!friendly relation/intimate-ぼく
+贄	_sacrifice offering/-None
+壷	_jar/-None
+淵	deep water/-えん
+浦	!seaside/bay-うら
+泌	!secretion/ooze-ぴつ
+涎	_drool/-None
+慶	!joyou/jubilation-けい
+唐	!china/t'ang-とう
+俯	_looked down/-None
+隻	!number of ship/vessels-せき
+斎	!private librarie/purification-さい
+巫	!shrine maiden/-ふ
+傲	!arrogant/-ごう
+倣	!mimic/emulate-ほう
+冴	_clear headed/-None
+牧	+raises livestock/breed-ぼく
+遡	_trace back/-None
+胡	!questionable/-こ
+萌	!began to sprout/-ほう
+暢	!fluent/-ちょう
+帥	commander-すい
+幌	_car covering/canopy-None
+矮	_dwarf sized/-None
+嬌	_charm/attractive-None
+矯	!correction/rectify-きょう
+楼	!tall building/watchtower-ろう
+辿	_follow/-None
+迭	!alternative/alternate-てつ
+迂	_detour/-None
+辻	_crossroad/crossing-None
+韻	!rhyme-いん
+剖	!dissecting/divide-ぼう
+拉	!abducted/-ら
+笠	_bamboo hat-None
+緻	!closely/-ち
+縺	_tangled/-None
+縞	_striped/-None
+糾	!complicated/twist-きゅう
+醸	!brew alcohol/brew-じょう
+酪	!dairy/dairy products-らく
+晒	_expose/-None
+洒	_stylish tone/-None
+牢	!jail/-ろう
+竿	_rod/-None
+芋	!potatoe/potato-いも
+鋳	casting-い
+鉤	_hook/-None
+鋏	_scissor/-None
+鎧	_full armor/-None
+箔	!foil/-ぱく
+箋	!label/-せん
+篠	_bamboo gras/-None
+籠	!basket/-ろう
+煽	_incited/-None
+灼	!red hot/-しゃく
+炸	_explosive/-None
+丹	!earnest/cinnabar-たん
+鞍	_saddle/-None
+帆	sail-ほ
+彷	!wander aimlessly/-ほう
+紡	!spinning-ぼう
+劫	!extended time period/-ごう
+勃	_sudden/-None
+崎	!peninsula/promontory-さき
+埼	_long peninsula/cape-None
+綺	_lovely/-None
+阪	_gradient/heights-None
+岡	_small hill/mount-None
+阜	_large hill/-None
+媛	_beautiful women/beautiful woman-None
+畿	_capital region/-None
+奈	_nara-None
+蛮	!barbaric/barbarian-ばん
+蛙	!frog/-かえる
+蝉	_cicada/-None
+螺	_spiral/-None
+賓	!visitor/v.i.p.-ひん
+窒	_obstruction/plug up-None
+寡	!small amount of/widow-か
+践	!implemented/tread-せん
+蹄	_hoof/-None
+踪	!foot print/-そう
+鮭	!salmon/-さけ
+鮨	_sushi/-None
+鮫	_shark/-None
+餃	_gyoza/-None
+曙	!sunrise/-あけぼの
+孝	!respect your parent/filial piety-こう
+巷	_in public/-None
+逐	!sequential/pursue-ちく
+塚	!mound/hillock-つか
+遽	!abrupt/-きょ
+曰	_it is said/sayeth-None
+昂	!excitement/-こう
+臼	!rice pounding container/-うす
+憾	!feel regret/remorse-かん
+惣	_everything/-None
+惹	_attracted/-None
+愁	!distres/distress-しゅう
+慈	!compassion/mercy-じ
+憑	!possessed/-ひょう
+恣	!as you please/-し
+棋	!shogi/chess piece-ぎ
+槍	_wooden spear/-None
+栃	_horse chestnut-None
+棲	!inhabit/-せい
+樽	_barrel/-None
+槌	_hammer/-None
+梱	_pack together/-None
+櫛	_comb/-None
+楓	_maple tree/-None
+柵	_wooden fence/-None
+杭	_stake/-None
+桟	!pier/scaffold-さん
+柳	!willow tree/willow-やなぎ
+柏	!oak tree/oak-かしわ
+柿	!persimmon/-かき
+烏	_crow-None
+鴎	!seagull/-かもめ
+潟	_lagoon-None
+鷲	_eagle/-None
+鷹	hawk/-おう
+鵜	_swallow whole/-None
+蔦	!ivy/vine-つた
+奸	_corrupt/-None
+婿	!son in law/bridegroom-むこ
+妃	!empres/queen-ひ
+汝	!thou/-なんじ
+姑	mother in law/-こ
+姪	!niece/-めい
+姜	_ginger/-None
+后	queen/empress-ごう
+勿	_must not/not-None
+斥	!repel/reject-せき
+但	_however-None
+渾	!all of/-こん
+軋	_creaking/-None
+坦	!smooth/-たん
+藤	!wisteria-ふじ
+脛	_shin/-None
+腑	!internal organ/-ふ
+膳	!low dining table/-ぜん
+膿	pu/-うみ
+腱	!tendon/-けん
+嚇	!intimidate/upbraid-かく
+囁	_whispering/-None
+嘔	!vomit/-おう
+噌	_miso/-None
+爺	!grandfather/-じい
+釜	_cauldron/-None
+斧	_axe/-None
+篤	!wholehearted/fervent-とく
+馳	!run around/-ち
+匙	!spoon/-さじ
+仄	_faint/-None
+凹	!concave-おう
+凸	!convex-とつ
+訛	_accent/-None
+諺	_proverb/-None
+訝	!suspect/-げん
+訣	!secret method/-けつ
+譜	!sheet music/musical score-ふ
+謳	_sing together/-None
+諜	!spy/-ちょう
+那	_mister/-None
+陛	!your majesty/highness-へい
+阿	!idiot/africa-あ
+兎	_rabbit/-None
+兜	_helmet/-None
+禿	_bald/-None
+栗	!chestnut-くり
+朱	!vermillion red/vermilion-しゅ
+粟	!millet/-あわ
+云	_say out loud/-None
+仁	empathy/humanity-じん
+孔	!small hole/cavity-こう
+旺	!prosperou/-おう
+閏	!leap year/-うるう
+逞	_athletic/-None
+只	!just/only-ただ
+苔	_mos/-None
+侶	!companion/-りょ
+頷	_nodded/-None
+頒	!distribution/partition-はん
+琴	!japanese koto/harp-こと
+咎	_criticize/-None
+吟	!recite/versify-ぎん
+嗽	_gargling/-None
+乃	_/from-None
+匕	_/spoon-None
+之	_/of-None
+勺	_/ladle-None
+巳	!/sign of the snake-み
+廿	_/twenty-None
+匁	!/monme-もんめ
+升	!/measuring box-しょう
+斗	!/big dipper-と
+斤	!/ax-きん
+屯	!/barracks-とん
+允	_/license-None
+且	_/moreover-None
+丙	!/third class-へい
+包	!/wrap-ほう
+尼	/nun-あま
+弘	_/vast-None
+甘	/sweet-かん
+丑	!/sign of the cow-うし
+卯	!/sign of the hare-う
+旭	_/rising sun-None
+亘	_/span-None
+亥	!/sign of the hog-い
+瓜	_/melon-None
+伊	_/italy-None
+圭	_/squared jewel-None
+吏	!/officer-り
+汐	_/eventide-None
+弐	_/ii (two)-None
+亜	!/asia-あ
+呉	!/give-ご
+吾	!/i-ご
+坑	!/pit-こう
+壱	_/i (one)-None
+扶	!/aid-ふ
+抄	!/extract-しょう
+杏	_/apricot-None
+辰	/sign of the dragon-しん
+酉	_/sign of the bird-None
+佳	_/excellent-None
+函	!/bin-かん
+劾	!/censure-がい
+坪	!/two mat area-つぼ
+岬	!/headland-みさき
+岳	/point-がく
+昌	_/prosperous-None
+沫	_/splash-None
+苑	!/garden-えん
+朋	_/companion-None
+附	_/affixed-None
+侯	!/marquis-こう
+勅	!/imperial order-ちょく
+厘	!/rin-りん
+彦	!/lad-ひこ
+衷	!/inmost-ちゅう
+倹	!/frugal-けん
+准	!/quasi -じゅん
+朕	!/majestic plural-ちん
+桑	!/mulberry-くわ
+桂	_/japanese judas tree-None
+桐	!/paulownia-きり
+殉	!/martyrdom-じゅん
+畔	!/paddy ridge-はん
+畝	!/furrow-うね
+翁	!/venerable old man-おきな
+荻	_/reed-None
+蚕	/silkworm-かいこ
+逓	_/parcel post-None
+郡	!/county-ぐん
+曽	_/formerly-None
+寅	_/sign of the tiger-None
+梢	_/treetops-None
+梓	_/catalpa-None
+庸	!/comfortable-よう
+渚	!/strand-なぎさ
+笹	_/bamboo grass-None
+菱	!/diamond-ひし
+郭	!/enclosure-かく
+陵	!/mausoleum-りょう
+堕	!/degenerate-だ
+痘	_/pox-None
+硝	_/nitrate-None
+脹	_/dilate-None
+詔	!/imperial edict-みことのり
+嗣	_/heir-None
+塑	_/model-None
+搾	!/squeeze-さく
+椿	!/camellia-つばき
+楠	_/camphor tree-None
+艇	!/rowboat-てい
+蒲	_/bullrush-None
+虞	_/uneasiness-None
+褐	_/brown-None
+嫡	!/legitimate wife-ちゃく
+裳	_/skirt-None
+漸	!/steadily-ぜん
+銑	_/pig iron-None
+墳	!/tomb-ふん
+窯	!/kiln-かま
+罷	!/quit-ひ
+謁	_/audience-None
+賦	/levy-ふ
+遵	_/abide by-None
+儒	!/confucian-じゅ
+墾	!/groundbreaking-こん
+薫	_/fragrant-None
+諮	!/consult with-し
+錘	_/spindle-None
+錦	!/brocade-にしき
+爵	!/baron-しゃく
+謄	!/facsimilie-とう
+濫	!/overflow-らん
+繭	_/cocoon-None
+藩	!/clan-はん
+髄	!/marrow-ずい

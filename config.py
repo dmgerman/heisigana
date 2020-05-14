@@ -4,5 +4,6 @@ class Config(object):
     heisiganaSrcFields = ["Expression", "SentenceJp", "sentenceJp"]
     heisiganaDstField = "heisigana"
     overwrite = True
-    kanjiList = "HeisigJalupKeywords.txt"
+    #kanjiList = "HeisigJalupKeywords.txt"
+    kanjiList = "heisigana.txt"
 
