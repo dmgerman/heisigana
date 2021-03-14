@@ -4,5 +4,5 @@ class Config(object):
     heisiganaSrcFields = ["Expression", "SentenceJp", "sentenceJp"]
     heisiganaDstField = "heisigana"
     overwrite = True
-    kanjiList = "HeisigKeywords.txt"
+    kanjiList = "heisigana-all.txt"
     japaneseSupportPluginFolderName="3918629680"
